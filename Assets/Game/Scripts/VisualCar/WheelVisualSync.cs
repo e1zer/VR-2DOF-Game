@@ -11,23 +11,19 @@ public class WheelVisualSync : MonoBehaviour
 
     public Wheel[] wheels;
 
-    void Update()
+    private void Update()
     {
-        foreach (var w in wheels)
+        foreach (var wheel in wheels)
         {
-            UpdateWheelPose(w.collider, w.mesh);
+            UpdateWheelPose(wheel.collider, wheel.mesh);
         }
     }
 
-    void UpdateWheelPose(WheelCollider col, Transform mash)
+    private void UpdateWheelPose(WheelCollider collider, Transform mash)
     {
-        Vector3 pos;
-        Quaternion rot;
-        col.GetWorldPose(out pos, out rot);
+        Quaternion rotation;
+        collider.GetWorldPose(out _, out rotation);
 
-        rot.y = 0f;
-
-        mash.position = pos;
-        mash.rotation = rot;
+        mash.rotation = rotation;
     }
 }

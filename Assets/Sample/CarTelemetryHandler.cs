@@ -43,7 +43,7 @@ public class CarTelemetryHandler : MonoBehaviour
             UpdateAngles();
             UpdateVelocity();
 
-            Debug.Log(_telemetryDataData.ToString());
+            //Debug.Log(_telemetryDataData.ToString());
 
             yield return new WaitForSeconds(WAIT_TIME);
         }
@@ -52,8 +52,6 @@ public class CarTelemetryHandler : MonoBehaviour
     private void UpdateVelocity()
     {
         _telemetryDataData.Velocity = rigidbody.velocity;
-
-        Debug.Log("Velocity: " + _telemetryDataData.Velocity);
     }
 
     private void UpdateAngles()
@@ -69,7 +67,5 @@ public class CarTelemetryHandler : MonoBehaviour
         euler.y = euler.y > 180 ? euler.y - 360 : euler.y;
 
         _telemetryDataData.Angles = euler;
-
-        Debug.Log("Angles: " + _telemetryDataData.Angles);
     }
 }

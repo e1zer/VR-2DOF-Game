@@ -31,7 +31,7 @@ public partial class @InputController: IInputActionCollection2, IDisposable
                     ""name"": ""Dpad"",
                     ""type"": ""PassThrough"",
                     ""id"": ""c28dad5a-4545-4f5a-b7a6-67d4ca0a9d46"",
-                    ""expectedControlType"": ""Dpad"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
@@ -229,6 +229,17 @@ public partial class @InputController: IInputActionCollection2, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Logitech G29"",
+                    ""action"": ""East"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5a0a1d9e-6bfc-4f13-ad76-938b8d3dc5d8"",
+                    ""path"": ""<Keyboard>/r"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
                     ""action"": ""East"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
