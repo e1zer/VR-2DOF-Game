@@ -431,7 +431,7 @@ public partial class @InputController: IInputActionCollection2, IDisposable
                     ""type"": ""PassThrough"",
                     ""id"": ""c210cc6b-6dbf-4750-96f7-d6391fd4e5c8"",
                     ""expectedControlType"": ""Axis"",
-                    ""processors"": """",
+                    ""processors"": ""AxisDeadzone"",
                     ""interactions"": """",
                     ""initialStateCheck"": false
                 },
@@ -489,6 +489,17 @@ public partial class @InputController: IInputActionCollection2, IDisposable
                     ""action"": ""Steering_Steering"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""17b45b2b-abbb-49c3-a31a-f6311121f3fc"",
+                    ""path"": ""<HID::Logitech  Logitech MOMO Racing >/stick/x"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Steering_Steering"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 },
                 {
                     ""name"": """",
@@ -560,6 +571,17 @@ public partial class @InputController: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
+                    ""id"": ""1a2673a6-86bf-41e8-8280-f435b9e01240"",
+                    ""path"": ""<HID::Logitech  Logitech MOMO Racing >/z"",
+                    ""interactions"": """",
+                    ""processors"": ""Invert"",
+                    ""groups"": """",
+                    ""action"": ""Throttle"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
                     ""id"": ""23c462a6-d9b2-4140-ae65-03d64daa6a0d"",
                     ""path"": ""<Logitech G29 Racing Wheel>/clutchAxis"",
                     ""interactions"": """",
@@ -586,6 +608,17 @@ public partial class @InputController: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
                     ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Brake"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""749dcdee-b3f3-447f-9c53-f80b27bb4be7"",
+                    ""path"": ""<HID::Logitech  Logitech MOMO Racing >/rz"",
+                    ""interactions"": """",
+                    ""processors"": ""Invert"",
                     ""groups"": """",
                     ""action"": ""Brake"",
                     ""isComposite"": false,

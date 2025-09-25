@@ -1,0 +1,2535 @@
+﻿=== Car Debug Log ===
+Start Time: 21.09.2025 17:53:05
+
+[CAR] Speed: 7,8 km/h | LocalZ: 0,00
+Wheel L not grounded!
+Wheel R not grounded!
+Wheel L not grounded!
+Wheel R not grounded!
+[CAR] Speed: 14,8 km/h | LocalZ: 0,00
+Wheel L not grounded!
+Wheel R not grounded!
+Wheel L not grounded!
+Wheel R not grounded!
+[CAR] Speed: 0,4 km/h | LocalZ: 0,02
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,048
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,048
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,050
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,050
+[CAR] Speed: 1,6 km/h | LocalZ: 0,01
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,000
+[CAR] Speed: 2,6 km/h | LocalZ: 0,72
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,032 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,023 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-1,741 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,078 | SideSlip:-0,001
+[CAR] Speed: 5,6 km/h | LocalZ: 1,56
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,035 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,056 | SideSlip:0,014
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,528 | SideSlip:-0,009
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,627 | SideSlip:-0,009
+[CAR] Speed: 8,4 km/h | LocalZ: 2,34
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,156 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,108 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,154 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,497 | SideSlip:0,000
+[CAR] Speed: 11,6 km/h | LocalZ: 3,22
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,119 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,128 | SideSlip:-0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,440 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,276 | SideSlip:0,003
+[CAR] Speed: 14,3 km/h | LocalZ: 3,98
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,112 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,137 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,085 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,124 | SideSlip:0,000
+[CAR] Speed: 17,4 km/h | LocalZ: 4,84
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,091 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,092 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,354 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,393 | SideSlip:-0,001
+[CAR] Speed: 20,2 km/h | LocalZ: 5,60
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,390 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,391 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,763 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,762 | SideSlip:0,000
+[CAR] Speed: 22,9 km/h | LocalZ: 6,37
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,501 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,499 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-1,549 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-1,552 | SideSlip:0,000
+[CAR] Speed: 27,2 km/h | LocalZ: 7,55
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,311 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,312 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,411 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,410 | SideSlip:0,000
+[CAR] Speed: 29,3 km/h | LocalZ: 8,13
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,114 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,116 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,716 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,716 | SideSlip:0,000
+[CAR] Speed: 33,0 km/h | LocalZ: 9,16
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,342 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,362 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,298 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,297 | SideSlip:0,000
+[CAR] Speed: 35,8 km/h | LocalZ: 9,94
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,499 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,310 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,371 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,402 | SideSlip:-0,001
+[CAR] Speed: 38,6 km/h | LocalZ: 10,73
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,147 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,091 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,567 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,493 | SideSlip:-0,001
+[CAR] Speed: 41,6 km/h | LocalZ: 11,55
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,218 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,087 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,042 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,655 | SideSlip:0,002
+[CAR] Speed: 44,7 km/h | LocalZ: 12,41
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,222 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,177 | SideSlip:-0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,521 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,306 | SideSlip:0,003
+[CAR] Speed: 44,5 km/h | LocalZ: 12,35
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,290 | SideSlip:-0,374
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,146 | SideSlip:-0,360
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,638 | SideSlip:-0,030
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,216 | SideSlip:-0,033
+[CAR] Speed: 46,4 km/h | LocalZ: 12,86
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,290 | SideSlip:-0,345
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,078 | SideSlip:-0,322
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,013 | SideSlip:-0,051
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,217 | SideSlip:-0,057
+[CAR] Speed: 47,5 km/h | LocalZ: 13,20
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,304 | SideSlip:0,109
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,014 | SideSlip:0,121
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,139 | SideSlip:-0,058
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,492 | SideSlip:-0,065
+[CAR] Speed: 46,9 km/h | LocalZ: 13,02
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,124 | SideSlip:0,386
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,291 | SideSlip:0,395
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,420 | SideSlip:0,021
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,053 | SideSlip:0,019
+[CAR] Speed: 48,0 km/h | LocalZ: 13,33
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,003 | SideSlip:0,347
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,125 | SideSlip:0,365
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,246 | SideSlip:0,054
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,527 | SideSlip:0,049
+[CAR] Speed: 49,8 km/h | LocalZ: 13,82
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,074 | SideSlip:0,345
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,141 | SideSlip:0,364
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,368 | SideSlip:0,067
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,177 | SideSlip:0,060
+[CAR] Speed: 50,3 km/h | LocalZ: 13,97
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,048 | SideSlip:0,360
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,150 | SideSlip:0,376
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,206 | SideSlip:0,062
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,496 | SideSlip:0,056
+[CAR] Speed: 51,8 km/h | LocalZ: 14,39
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:-0,019
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,055 | SideSlip:-0,018
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,448 | SideSlip:0,046
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,536 | SideSlip:0,044
+[CAR] Speed: 54,2 km/h | LocalZ: 15,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,217 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,104 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,361 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,642 | SideSlip:0,001
+[CAR] Speed: 58,4 km/h | LocalZ: 16,22
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,205 | SideSlip:0,003
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,122 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,307 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,031 | SideSlip:0,000
+[CAR] Speed: 58,1 km/h | LocalZ: 16,13
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,147 | SideSlip:-0,425
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,024 | SideSlip:-0,419
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,538 | SideSlip:-0,026
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,022 | SideSlip:-0,027
+[CAR] Speed: 58,6 km/h | LocalZ: 16,27
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:-0,414
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,404
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,229 | SideSlip:-0,060
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,203 | SideSlip:-0,066
+[CAR] Speed: 62,0 km/h | LocalZ: 17,21
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,168 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:-0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,375 | SideSlip:-0,013
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,443 | SideSlip:-0,014
+[CAR] Speed: 63,7 km/h | LocalZ: 17,70
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,023 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,131 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,438 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,235 | SideSlip:-0,002
+[CAR] Speed: 68,0 km/h | LocalZ: 18,89
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,066 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,175 | SideSlip:-0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,391 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,078 | SideSlip:0,006
+[CAR] Speed: 70,1 km/h | LocalZ: 19,46
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,152 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,353 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,420 | SideSlip:-0,006
+[CAR] Speed: 72,7 km/h | LocalZ: 20,21
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,253 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,356 | SideSlip:0,000
+[CAR] Speed: 76,1 km/h | LocalZ: 21,13
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,154 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,153 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,006 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,396 | SideSlip:0,003
+[CAR] Speed: 79,0 km/h | LocalZ: 21,96
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,117 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,088 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,447 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,337 | SideSlip:-0,006
+[CAR] Speed: 82,7 km/h | LocalZ: 22,98
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,169 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,158 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,103 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,317 | SideSlip:-0,003
+[CAR] Speed: 84,3 km/h | LocalZ: 23,42
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,118 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,068 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,411 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,236 | SideSlip:-0,002
+[CAR] Speed: 86,6 km/h | LocalZ: 24,04
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,029 | SideSlip:0,467
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,015 | SideSlip:0,469
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,338 | SideSlip:0,026
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,249 | SideSlip:0,025
+[CAR] Speed: 87,4 km/h | LocalZ: 24,26
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:0,487
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,116 | SideSlip:0,489
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,058 | SideSlip:0,066
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,097 | SideSlip:0,063
+[CAR] Speed: 86,8 km/h | LocalZ: 24,07
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,033 | SideSlip:0,509
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,097 | SideSlip:0,509
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,268 | SideSlip:0,094
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,266 | SideSlip:0,089
+[CAR] Speed: 86,5 km/h | LocalZ: 23,98
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,029 | SideSlip:0,523
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,116 | SideSlip:0,523
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,125 | SideSlip:0,083
+[CAR] Speed: 83,1 km/h | LocalZ: 23,04
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,044 | SideSlip:0,523
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,102 | SideSlip:0,523
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,152 | SideSlip:0,103
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,235 | SideSlip:0,099
+[CAR] Speed: 78,1 km/h | LocalZ: 21,61
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,057 | SideSlip:0,530
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,189 | SideSlip:0,530
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,150 | SideSlip:0,140
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,166 | SideSlip:0,132
+[CAR] Speed: 76,3 km/h | LocalZ: 21,05
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,052 | SideSlip:0,554
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,188 | SideSlip:0,552
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,230 | SideSlip:0,174
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,259 | SideSlip:0,163
+[CAR] Speed: 76,0 km/h | LocalZ: 20,92
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,036 | SideSlip:0,087
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,114 | SideSlip:0,082
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,384 | SideSlip:0,187
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,329 | SideSlip:0,176
+[CAR] Speed: 77,7 km/h | LocalZ: 21,41
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,002 | SideSlip:0,075
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,070 | SideSlip:0,071
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,079 | SideSlip:0,162
+[CAR] Speed: 79,7 km/h | LocalZ: 21,97
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:0,073
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,055 | SideSlip:0,069
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,140 | SideSlip:0,169
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,036 | SideSlip:0,160
+[CAR] Speed: 79,8 km/h | LocalZ: 22,01
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,097 | SideSlip:-0,364
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,112 | SideSlip:-0,362
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,043 | SideSlip:0,115
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,114 | SideSlip:0,117
+[CAR] Speed: 80,2 km/h | LocalZ: 22,26
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,036 | SideSlip:0,027
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:0,028
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,262 | SideSlip:-0,073
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,116 | SideSlip:-0,077
+[CAR] Speed: 83,7 km/h | LocalZ: 23,23
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,103 | SideSlip:-0,010
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,059 | SideSlip:-0,010
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,305 | SideSlip:-0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,011 | SideSlip:-0,033
+[CAR] Speed: 87,7 km/h | LocalZ: 24,35
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,077 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,123 | SideSlip:-0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,118 | SideSlip:-0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,039 | SideSlip:-0,010
+[CAR] Speed: 90,1 km/h | LocalZ: 25,03
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,087 | SideSlip:-0,002
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,083 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,227 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,258 | SideSlip:-0,004
+[CAR] Speed: 91,1 km/h | LocalZ: 25,29
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,065 | SideSlip:-0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,408 | SideSlip:-0,032
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,077 | SideSlip:-0,032
+[CAR] Speed: 92,8 km/h | LocalZ: 25,78
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,068 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,075 | SideSlip:-0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,191 | SideSlip:-0,017
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,223 | SideSlip:-0,017
+[CAR] Speed: 96,9 km/h | LocalZ: 26,92
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,102 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,192 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,268 | SideSlip:-0,008
+[CAR] Speed: 97,7 km/h | LocalZ: 27,14
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,063 | SideSlip:0,482
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:0,482
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,101 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,153 | SideSlip:0,005
+[CAR] Speed: 101,3 km/h | LocalZ: 28,13
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,074 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,064 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,354 | SideSlip:0,012
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,387 | SideSlip:0,012
+[CAR] Speed: 103,6 km/h | LocalZ: 28,77
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,080 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,111 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,283 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,216 | SideSlip:0,007
+[CAR] Speed: 107,2 km/h | LocalZ: 29,76
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,081 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,011 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,342 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,304 | SideSlip:0,005
+[CAR] Speed: 110,5 km/h | LocalZ: 30,68
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,096 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,043 | SideSlip:0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,281 | SideSlip:0,001
+[CAR] Speed: 113,7 km/h | LocalZ: 31,59
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,026 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,030 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,265 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,260 | SideSlip:0,002
+[CAR] Speed: 115,6 km/h | LocalZ: 32,12
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,020 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,034 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,241 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,204 | SideSlip:0,002
+[CAR] Speed: 119,6 km/h | LocalZ: 33,21
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,058 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,081 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,126 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,300 | SideSlip:0,000
+[CAR] Speed: 121,9 km/h | LocalZ: 33,87
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,044 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,018 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,283 | SideSlip:-0,002
+[CAR] Speed: 123,5 km/h | LocalZ: 34,31
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,032 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,100 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,191 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,179 | SideSlip:0,019
+[CAR] Speed: 127,1 km/h | LocalZ: 35,29
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,038 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,082 | SideSlip:0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,242 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,305 | SideSlip:0,019
+[CAR] Speed: 130,2 km/h | LocalZ: 36,17
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,008 | SideSlip:0,512
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,082 | SideSlip:0,512
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,127 | SideSlip:0,018
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,164 | SideSlip:0,018
+[CAR] Speed: 130,6 km/h | LocalZ: 36,25
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,016 | SideSlip:0,018
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,092 | SideSlip:0,017
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,078 | SideSlip:0,045
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,277 | SideSlip:0,044
+[CAR] Speed: 133,0 km/h | LocalZ: 36,93
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,008 | SideSlip:0,020
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,112 | SideSlip:0,020
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,018 | SideSlip:0,042
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,055 | SideSlip:0,042
+[CAR] Speed: 136,1 km/h | LocalZ: 37,80
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,057 | SideSlip:-0,465
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,046 | SideSlip:-0,464
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,298 | SideSlip:0,006
+[CAR] Speed: 135,4 km/h | LocalZ: 37,58
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,067 | SideSlip:-0,027
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,031 | SideSlip:-0,027
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,118 | SideSlip:-0,052
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,144 | SideSlip:-0,052
+[CAR] Speed: 127,7 km/h | LocalZ: 35,46
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,786 | SideSlip:0,462
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,946 | SideSlip:0,464
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,514 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,207 | SideSlip:0,003
+[CAR] Speed: 122,0 km/h | LocalZ: 33,70
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,030 | SideSlip:0,548
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,055 | SideSlip:0,547
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,212 | SideSlip:0,112
+[CAR] Speed: 116,9 km/h | LocalZ: 31,80
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,006 | SideSlip:0,667
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,144 | SideSlip:0,660
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,132 | SideSlip:0,234
+[CAR] Speed: 106,0 km/h | LocalZ: 27,64
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,995 | SideSlip:0,810
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,995 | SideSlip:0,796
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,996 | SideSlip:0,384
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,477 | SideSlip:0,366
+[CAR] Speed: 92,9 km/h | LocalZ: 22,92
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,993 | SideSlip:0,937
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,993 | SideSlip:0,919
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,084 | SideSlip:0,477
+[CAR] Speed: 82,0 km/h | LocalZ: 19,25
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,057 | SideSlip:1,009
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,116 | SideSlip:0,978
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,182 | SideSlip:0,600
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,226 | SideSlip:0,566
+[CAR] Speed: 73,0 km/h | LocalZ: 16,21
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,051 | SideSlip:1,077
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,070 | SideSlip:1,038
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,250 | SideSlip:0,674
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,152 | SideSlip:0,632
+[CAR] Speed: 63,8 km/h | LocalZ: 13,15
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,036 | SideSlip:1,153
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,040 | SideSlip:1,095
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,251 | SideSlip:0,778
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,079 | SideSlip:0,717
+[CAR] Speed: 53,7 km/h | LocalZ: 9,87
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,042 | SideSlip:1,246
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,068 | SideSlip:1,157
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,426 | SideSlip:0,900
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,087 | SideSlip:0,811
+[CAR] Speed: 44,8 km/h | LocalZ: 7,29
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,144 | SideSlip:1,338
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,206 | SideSlip:1,210
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,631 | SideSlip:1,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,342 | SideSlip:0,895
+[CAR] Speed: 35,2 km/h | LocalZ: 5,20
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,056 | SideSlip:1,358
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,395 | SideSlip:1,212
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,017 | SideSlip:1,048
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,679 | SideSlip:0,917
+[CAR] Speed: 26,5 km/h | LocalZ: 5,40
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,284 | SideSlip:0,188
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,317 | SideSlip:0,100
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,645 | SideSlip:0,829
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,478 | SideSlip:0,740
+[CAR] Speed: 24,8 km/h | LocalZ: 6,01
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,162 | SideSlip:-0,007
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,415 | SideSlip:-0,015
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,189 | SideSlip:0,477
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,681 | SideSlip:0,470
+[CAR] Speed: 26,0 km/h | LocalZ: 7,07
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,070 | SideSlip:-0,092
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,394 | SideSlip:0,018
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,233 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,721 | SideSlip:-0,007
+[CAR] Speed: 27,5 km/h | LocalZ: 7,63
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,250 | SideSlip:0,553
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,499 | SideSlip:0,555
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,447 | SideSlip:-0,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,258 | SideSlip:-0,015
+[CAR] Speed: 29,1 km/h | LocalZ: 8,07
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,221 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,438 | SideSlip:0,015
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,994 | SideSlip:-0,013
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,669 | SideSlip:-0,014
+[CAR] Speed: 32,0 km/h | LocalZ: 8,90
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,256 | SideSlip:0,024
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,148 | SideSlip:0,025
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,357 | SideSlip:-0,021
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,676 | SideSlip:-0,021
+[CAR] Speed: 35,3 km/h | LocalZ: 9,80
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,218 | SideSlip:-0,415
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,142 | SideSlip:-0,411
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,454 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,172 | SideSlip:-0,005
+[CAR] Speed: 36,3 km/h | LocalZ: 10,07
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,017 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,044 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,871 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,797 | SideSlip:-0,006
+[CAR] Speed: 39,8 km/h | LocalZ: 11,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,117 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,369 | SideSlip:-0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,835 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,275 | SideSlip:-0,002
+[CAR] Speed: 43,0 km/h | LocalZ: 11,93
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,340 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,112 | SideSlip:0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,686 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,279 | SideSlip:-0,008
+[CAR] Speed: 46,0 km/h | LocalZ: 12,77
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,296 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,100 | SideSlip:0,015
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,376 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,566 | SideSlip:-0,007
+[CAR] Speed: 48,1 km/h | LocalZ: 13,37
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,138 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,015 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,767 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,751 | SideSlip:-0,002
+[CAR] Speed: 52,3 km/h | LocalZ: 14,52
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,278 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,191 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,248 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,261 | SideSlip:-0,003
+[CAR] Speed: 54,1 km/h | LocalZ: 15,04
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,095 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,108 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,560 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,562 | SideSlip:-0,001
+[CAR] Speed: 56,1 km/h | LocalZ: 15,59
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:0,447
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,115 | SideSlip:0,450
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,367 | SideSlip:0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,621 | SideSlip:0,010
+[CAR] Speed: 56,6 km/h | LocalZ: 15,71
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,052 | SideSlip:0,395
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,244 | SideSlip:0,405
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,251 | SideSlip:0,050
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,027 | SideSlip:0,046
+[CAR] Speed: 59,3 km/h | LocalZ: 16,48
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,086 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,126 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,244 | SideSlip:0,021
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,270 | SideSlip:0,021
+[CAR] Speed: 61,6 km/h | LocalZ: 17,11
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,108 | SideSlip:0,458
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,033 | SideSlip:0,460
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,372 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,513 | SideSlip:0,009
+[CAR] Speed: 62,3 km/h | LocalZ: 17,31
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,011 | SideSlip:-0,047
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,066 | SideSlip:-0,045
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,334 | SideSlip:0,046
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,499 | SideSlip:0,044
+[CAR] Speed: 65,7 km/h | LocalZ: 18,24
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,043 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,065 | SideSlip:0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,475 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,074 | SideSlip:0,004
+[CAR] Speed: 66,5 km/h | LocalZ: 18,47
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,046 | SideSlip:0,445
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,104 | SideSlip:0,449
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,131 | SideSlip:0,024
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,383 | SideSlip:0,023
+[CAR] Speed: 67,4 km/h | LocalZ: 18,72
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:0,437
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:0,442
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,268 | SideSlip:0,060
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,224 | SideSlip:0,056
+[CAR] Speed: 69,2 km/h | LocalZ: 19,23
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,138 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,272 | SideSlip:0,027
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,302 | SideSlip:0,027
+[CAR] Speed: 72,6 km/h | LocalZ: 20,17
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,124 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:-0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,345 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,510 | SideSlip:0,009
+[CAR] Speed: 75,8 km/h | LocalZ: 21,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,174 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,125 | SideSlip:0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,460 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,043 | SideSlip:-0,005
+[CAR] Speed: 78,9 km/h | LocalZ: 21,93
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,100 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,111 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,366 | SideSlip:-0,004
+[CAR] Speed: 81,5 km/h | LocalZ: 22,64
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,150 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,048 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,054 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,271 | SideSlip:0,001
+[CAR] Speed: 81,3 km/h | LocalZ: 22,58
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,088 | SideSlip:-0,460
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:-0,458
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,364 | SideSlip:-0,026
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,321 | SideSlip:-0,027
+[CAR] Speed: 78,1 km/h | LocalZ: 21,69
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,042 | SideSlip:-0,472
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,030 | SideSlip:-0,469
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,331 | SideSlip:-0,077
+Wheel R not grounded!
+[CAR] Speed: 74,7 km/h | LocalZ: 20,65
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,020 | SideSlip:-0,518
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:-0,518
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,308 | SideSlip:-0,141
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,063 | SideSlip:-0,152
+[CAR] Speed: 70,9 km/h | LocalZ: 19,44
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,050 | SideSlip:-0,561
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,039 | SideSlip:-0,565
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,310 | SideSlip:-0,195
+Wheel R not grounded!
+[CAR] Speed: 68,6 km/h | LocalZ: 18,65
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,160 | SideSlip:-0,619
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,006 | SideSlip:-0,627
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,091 | SideSlip:-0,260
+Wheel R not grounded!
+[CAR] Speed: 66,1 km/h | LocalZ: 17,77
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,171 | SideSlip:-0,662
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,036 | SideSlip:-0,674
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,418 | SideSlip:-0,298
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,167 | SideSlip:-0,323
+[CAR] Speed: 63,9 km/h | LocalZ: 17,04
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,225 | SideSlip:-0,694
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,083 | SideSlip:-0,708
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,403 | SideSlip:-0,320
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,322 | SideSlip:-0,344
+[CAR] Speed: 61,5 km/h | LocalZ: 16,45
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,237 | SideSlip:-0,686
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,067 | SideSlip:-0,698
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,029 | SideSlip:-0,305
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,402 | SideSlip:-0,327
+[CAR] Speed: 56,2 km/h | LocalZ: 15,13
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,228 | SideSlip:-0,658
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,017 | SideSlip:-0,668
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,450 | SideSlip:-0,278
+Wheel R not grounded!
+[CAR] Speed: 48,3 km/h | LocalZ: 13,05
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,991 | SideSlip:-0,626
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,990 | SideSlip:-0,636
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,610 | SideSlip:-0,273
+Wheel R not grounded!
+[CAR] Speed: 37,6 km/h | LocalZ: 10,33
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,307 | SideSlip:-0,553
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,140 | SideSlip:-0,556
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,733 | SideSlip:-0,213
+Wheel R not grounded!
+[CAR] Speed: 36,5 km/h | LocalZ: 10,14
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,209 | SideSlip:-0,394
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,066 | SideSlip:-0,381
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,604 | SideSlip:-0,070
+Wheel R not grounded!
+[CAR] Speed: 37,9 km/h | LocalZ: 10,52
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,070 | SideSlip:0,093
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,144 | SideSlip:0,099
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,647 | SideSlip:-0,027
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,623 | SideSlip:-0,020
+[CAR] Speed: 40,8 km/h | LocalZ: 11,32
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,245 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,198 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,291 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,414 | SideSlip:0,007
+[CAR] Speed: 44,1 km/h | LocalZ: 12,24
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,153 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,071 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,336 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,224 | SideSlip:0,004
+[CAR] Speed: 45,9 km/h | LocalZ: 12,74
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,055 | SideSlip:0,411
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,215 | SideSlip:0,416
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,588 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,444 | SideSlip:0,013
+[CAR] Speed: 46,3 km/h | LocalZ: 12,84
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,204 | SideSlip:0,322
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,246 | SideSlip:0,344
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,017 | SideSlip:0,040
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,570 | SideSlip:0,036
+[CAR] Speed: 44,6 km/h | LocalZ: 12,38
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,017 | SideSlip:0,346
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,241 | SideSlip:0,363
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,313 | SideSlip:0,093
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,555 | SideSlip:0,083
+[CAR] Speed: 41,9 km/h | LocalZ: 11,60
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,011 | SideSlip:0,269
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,393 | SideSlip:0,304
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,217 | SideSlip:0,074
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,321 | SideSlip:0,067
+[CAR] Speed: 40,1 km/h | LocalZ: 11,14
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,185 | SideSlip:0,256
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,220 | SideSlip:0,311
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,539 | SideSlip:0,190
+[CAR] Speed: 41,2 km/h | LocalZ: 11,29
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,164 | SideSlip:0,358
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,204 | SideSlip:0,394
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,641 | SideSlip:0,354
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,075 | SideSlip:0,281
+[CAR] Speed: 42,6 km/h | LocalZ: 11,73
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,029 | SideSlip:0,030
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,179 | SideSlip:0,027
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,231 | SideSlip:0,239
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,189 | SideSlip:0,214
+[CAR] Speed: 43,9 km/h | LocalZ: 12,17
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,088 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,263 | SideSlip:0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,452 | SideSlip:0,136
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,553 | SideSlip:0,127
+[CAR] Speed: 45,0 km/h | LocalZ: 12,50
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,196 | SideSlip:0,149
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,107 | SideSlip:0,166
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,489 | SideSlip:-0,030
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,501 | SideSlip:-0,034
+[CAR] Speed: 47,8 km/h | LocalZ: 13,28
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,166 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,279 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,335 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,154 | SideSlip:-0,008
+[CAR] Speed: 50,1 km/h | LocalZ: 13,92
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,294 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,284 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,285 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,685 | SideSlip:0,002
+[CAR] Speed: 53,9 km/h | LocalZ: 14,96
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,123 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,188 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,410 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,536 | SideSlip:0,001
+[CAR] Speed: 54,9 km/h | LocalZ: 15,26
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,113 | SideSlip:-0,437
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,109 | SideSlip:-0,433
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,613 | SideSlip:-0,015
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,036 | SideSlip:-0,016
+[CAR] Speed: 59,4 km/h | LocalZ: 16,50
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,250 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,242 | SideSlip:-0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,287 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,127 | SideSlip:-0,001
+[CAR] Speed: 61,1 km/h | LocalZ: 16,97
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,126 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,096 | SideSlip:0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,562 | SideSlip:-0,012
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,519 | SideSlip:-0,012
+[CAR] Speed: 65,4 km/h | LocalZ: 18,15
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,228 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,250 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,204 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,099 | SideSlip:0,001
+[CAR] Speed: 68,5 km/h | LocalZ: 19,03
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,091 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,221 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,056 | SideSlip:0,001
+[CAR] Speed: 71,1 km/h | LocalZ: 19,75
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,110 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,038 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,187 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,350 | SideSlip:-0,002
+[CAR] Speed: 73,7 km/h | LocalZ: 20,46
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,050 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:-0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,139 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,480 | SideSlip:0,005
+[CAR] Speed: 77,2 km/h | LocalZ: 21,44
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,057 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,067 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,234 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,056 | SideSlip:0,002
+[CAR] Speed: 77,5 km/h | LocalZ: 21,54
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,191 | SideSlip:-0,455
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,057 | SideSlip:-0,452
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,186 | SideSlip:-0,042
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,118 | SideSlip:-0,044
+[CAR] Speed: 76,9 km/h | LocalZ: 21,36
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,179 | SideSlip:-0,478
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,032 | SideSlip:-0,476
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,405 | SideSlip:-0,064
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,104 | SideSlip:-0,068
+[CAR] Speed: 77,1 km/h | LocalZ: 21,39
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,165 | SideSlip:-0,494
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,037 | SideSlip:-0,493
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,409 | SideSlip:-0,077
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,249 | SideSlip:-0,081
+[CAR] Speed: 77,2 km/h | LocalZ: 21,44
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,146 | SideSlip:-0,494
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,045 | SideSlip:-0,493
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,328 | SideSlip:-0,072
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,190 | SideSlip:-0,075
+[CAR] Speed: 77,8 km/h | LocalZ: 21,60
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,080 | SideSlip:0,426
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:0,431
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,401 | SideSlip:0,021
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,100 | SideSlip:0,020
+[CAR] Speed: 77,5 km/h | LocalZ: 21,52
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,012 | SideSlip:0,472
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,185 | SideSlip:0,475
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,065 | SideSlip:0,077
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,003 | SideSlip:0,072
+[CAR] Speed: 77,8 km/h | LocalZ: 21,60
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,013 | SideSlip:0,490
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,164 | SideSlip:0,492
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,145 | SideSlip:0,078
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,392 | SideSlip:0,074
+[CAR] Speed: 77,2 km/h | LocalZ: 21,44
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:0,486
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,185 | SideSlip:0,488
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,020 | SideSlip:0,069
+[CAR] Speed: 77,1 km/h | LocalZ: 21,41
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:0,481
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,164 | SideSlip:0,483
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:0,068
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,418 | SideSlip:0,064
+[CAR] Speed: 77,3 km/h | LocalZ: 21,46
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,042 | SideSlip:0,482
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,180 | SideSlip:0,484
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:0,061
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,456 | SideSlip:0,058
+[CAR] Speed: 80,5 km/h | LocalZ: 22,36
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,034 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,116 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,347 | SideSlip:0,031
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,233 | SideSlip:0,031
+[CAR] Speed: 82,5 km/h | LocalZ: 22,91
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,154 | SideSlip:-0,456
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,050 | SideSlip:-0,454
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,049 | SideSlip:-0,018
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,292 | SideSlip:-0,019
+[CAR] Speed: 82,1 km/h | LocalZ: 22,79
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,140 | SideSlip:-0,476
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,032 | SideSlip:-0,474
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,335 | SideSlip:-0,063
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,334 | SideSlip:-0,067
+[CAR] Speed: 82,2 km/h | LocalZ: 22,80
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,246 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,166 | SideSlip:0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,361 | SideSlip:-0,083
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,236 | SideSlip:-0,087
+[CAR] Speed: 84,0 km/h | LocalZ: 23,32
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,180 | SideSlip:-0,012
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,014 | SideSlip:-0,012
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,330 | SideSlip:-0,047
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,157 | SideSlip:-0,048
+[CAR] Speed: 87,9 km/h | LocalZ: 24,42
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,134 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,068 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,105 | SideSlip:-0,021
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,382 | SideSlip:-0,021
+[CAR] Speed: 91,1 km/h | LocalZ: 25,31
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,161 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,108 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,060 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,019 | SideSlip:-0,008
+[CAR] Speed: 93,5 km/h | LocalZ: 25,97
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,021 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,097 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,387 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,298 | SideSlip:-0,007
+[CAR] Speed: 96,6 km/h | LocalZ: 26,82
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,066 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,102 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,082 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,206 | SideSlip:0,002
+[CAR] Speed: 100,0 km/h | LocalZ: 27,77
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,093 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,050 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,172 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,148 | SideSlip:0,001
+[CAR] Speed: 102,8 km/h | LocalZ: 28,57
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,029 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,085 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,144 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,021 | SideSlip:0,001
+[CAR] Speed: 104,6 km/h | LocalZ: 29,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,049 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,076 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,310 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,302 | SideSlip:0,001
+[CAR] Speed: 107,0 km/h | LocalZ: 29,71
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,036 | SideSlip:0,487
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,069 | SideSlip:0,488
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:0,028
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,244 | SideSlip:0,027
+[CAR] Speed: 106,2 km/h | LocalZ: 29,46
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,004 | SideSlip:0,521
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:0,521
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:0,080
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,142 | SideSlip:0,077
+[CAR] Speed: 105,8 km/h | LocalZ: 29,28
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,010 | SideSlip:0,557
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,079 | SideSlip:0,556
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,332 | SideSlip:0,101
+[CAR] Speed: 102,8 km/h | LocalZ: 28,40
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,056 | SideSlip:0,577
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,140 | SideSlip:0,575
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,167 | SideSlip:0,135
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,070 | SideSlip:0,130
+[CAR] Speed: 98,6 km/h | LocalZ: 27,11
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:0,599
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,143 | SideSlip:0,595
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,050 | SideSlip:0,166
+[CAR] Speed: 95,9 km/h | LocalZ: 26,11
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,029 | SideSlip:0,652
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,104 | SideSlip:0,646
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,132 | SideSlip:0,233
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,373 | SideSlip:0,222
+[CAR] Speed: 94,6 km/h | LocalZ: 25,53
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,252 | SideSlip:0,189
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,292 | SideSlip:0,180
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,109 | SideSlip:0,272
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,084 | SideSlip:0,259
+[CAR] Speed: 92,8 km/h | LocalZ: 25,29
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,212 | SideSlip:0,208
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,039 | SideSlip:0,210
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,365 | SideSlip:0,190
+[CAR] Speed: 91,6 km/h | LocalZ: 25,42
+Wheel L not grounded!
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,115 | SideSlip:0,575
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,313 | SideSlip:0,021
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,131 | SideSlip:0,019
+[CAR] Speed: 91,9 km/h | LocalZ: 25,45
+Wheel L not grounded!
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:0,466
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,039 | SideSlip:-0,070
+[CAR] Speed: 87,3 km/h | LocalZ: 24,22
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,127 | SideSlip:0,360
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,113 | SideSlip:0,374
+Wheel L not grounded!
+Wheel R not grounded!
+[CAR] Speed: 87,1 km/h | LocalZ: 24,09
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,038 | SideSlip:0,034
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,056 | SideSlip:0,032
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,342 | SideSlip:0,129
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,466 | SideSlip:0,122
+[CAR] Speed: 89,8 km/h | LocalZ: 24,84
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,001 | SideSlip:0,054
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,091 | SideSlip:0,052
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,134 | SideSlip:0,121
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,379 | SideSlip:0,117
+[CAR] Speed: 89,9 km/h | LocalZ: 24,84
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,030 | SideSlip:0,570
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,165 | SideSlip:0,568
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,137 | SideSlip:0,139
+[CAR] Speed: 88,5 km/h | LocalZ: 24,39
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,026 | SideSlip:0,582
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,152 | SideSlip:0,579
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,251 | SideSlip:0,163
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,343 | SideSlip:0,155
+[CAR] Speed: 87,8 km/h | LocalZ: 24,22
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,028 | SideSlip:0,591
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,151 | SideSlip:0,589
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,096 | SideSlip:0,149
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,348 | SideSlip:0,144
+[CAR] Speed: 86,9 km/h | LocalZ: 24,02
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,570
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,184 | SideSlip:0,569
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,014 | SideSlip:0,123
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,130 | SideSlip:0,119
+[CAR] Speed: 85,7 km/h | LocalZ: 23,76
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,010 | SideSlip:0,527
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,200 | SideSlip:0,528
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:0,090
+[CAR] Speed: 86,7 km/h | LocalZ: 24,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:0,016
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,191 | SideSlip:0,015
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,157 | SideSlip:0,064
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,364 | SideSlip:0,061
+[CAR] Speed: 89,4 km/h | LocalZ: 24,82
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,028 | SideSlip:0,506
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,046 | SideSlip:0,506
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,320 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,050 | SideSlip:0,014
+[CAR] Speed: 90,9 km/h | LocalZ: 25,24
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,031 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,008 | SideSlip:0,004
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,123 | SideSlip:0,050
+[CAR] Speed: 92,6 km/h | LocalZ: 25,54
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,004 | SideSlip:0,058
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,066 | SideSlip:0,055
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,664 | SideSlip:0,162
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,134 | SideSlip:0,153
+[CAR] Speed: 95,3 km/h | LocalZ: 26,12
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,049 | SideSlip:0,632
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,070 | SideSlip:0,628
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,244 | SideSlip:0,187
+[CAR] Speed: 96,6 km/h | LocalZ: 25,86
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,115 | SideSlip:-0,254
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,025 | SideSlip:-0,258
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,719 | SideSlip:0,277
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:0,273
+[CAR] Speed: 99,2 km/h | LocalZ: 27,31
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:0,155
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,003 | SideSlip:0,157
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,271 | SideSlip:0,130
+[CAR] Speed: 101,8 km/h | LocalZ: 28,18
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,060 | SideSlip:0,057
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,161 | SideSlip:0,055
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,618 | SideSlip:0,112
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,008 | SideSlip:0,109
+[CAR] Speed: 107,0 km/h | LocalZ: 29,72
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,016 | SideSlip:0,018
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:0,019
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,255 | SideSlip:0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,322 | SideSlip:0,032
+[CAR] Speed: 108,7 km/h | LocalZ: 30,20
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,078 | SideSlip:0,028
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,153 | SideSlip:0,029
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,329 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,047 | SideSlip:-0,006
+[CAR] Speed: 112,1 km/h | LocalZ: 31,15
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,131 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,012 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,076 | SideSlip:-0,024
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,243 | SideSlip:-0,024
+[CAR] Speed: 117,0 km/h | LocalZ: 32,49
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,032 | SideSlip:0,487
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:0,487
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,379 | SideSlip:0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,196 | SideSlip:0,000
+[CAR] Speed: 113,6 km/h | LocalZ: 31,49
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,013 | SideSlip:0,520
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,170 | SideSlip:0,516
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,075 | SideSlip:0,105
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,235 | SideSlip:0,095
+[CAR] Speed: 108,9 km/h | LocalZ: 30,08
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,077 | SideSlip:-0,411
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,154 | SideSlip:-0,413
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,221 | SideSlip:0,110
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,304 | SideSlip:0,107
+[CAR] Speed: 104,3 km/h | LocalZ: 28,96
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,160 | SideSlip:0,469
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,078 | SideSlip:0,470
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,319 | SideSlip:-0,025
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,431 | SideSlip:-0,023
+[CAR] Speed: 99,9 km/h | LocalZ: 27,69
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,004 | SideSlip:0,486
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,068 | SideSlip:0,489
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,169 | SideSlip:0,106
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,433 | SideSlip:0,099
+[CAR] Speed: 96,5 km/h | LocalZ: 26,30
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:0,632
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:0,625
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,078 | SideSlip:0,233
+[CAR] Speed: 96,3 km/h | LocalZ: 24,94
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:0,287
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,107 | SideSlip:0,264
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,501 | SideSlip:0,430
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,375 | SideSlip:0,397
+[CAR] Speed: 92,8 km/h | LocalZ: 23,06
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,198 | SideSlip:-0,022
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,311 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,279 | SideSlip:0,429
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,356 | SideSlip:0,443
+[CAR] Speed: 88,2 km/h | LocalZ: 24,46
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,053 | SideSlip:-0,253
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,007 | SideSlip:-0,193
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,395 | SideSlip:-0,060
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,402 | SideSlip:-0,077
+[CAR] Speed: 80,0 km/h | LocalZ: 20,92
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,852 | SideSlip:-0,638
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,994 | SideSlip:-0,660
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,967 | SideSlip:-0,384
+Wheel R not grounded!
+[CAR] Speed: 68,2 km/h | LocalZ: 14,98
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,254 | SideSlip:-0,890
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,052 | SideSlip:-0,975
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,245 | SideSlip:-0,656
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,121 | SideSlip:-0,771
+[CAR] Speed: 60,9 km/h | LocalZ: 10,20
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,177 | SideSlip:-0,169
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,020 | SideSlip:-0,340
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,549 | SideSlip:-0,910
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,218 | SideSlip:-1,066
+[CAR] Speed: 53,5 km/h | LocalZ: 5,87
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,157 | SideSlip:-0,390
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:-0,615
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,450 | SideSlip:-1,088
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,692 | SideSlip:-1,265
+[CAR] Speed: 43,3 km/h | LocalZ: 2,68
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,060 | SideSlip:-0,537
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,021 | SideSlip:-0,841
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,303 | SideSlip:-1,216
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,494 | SideSlip:-1,428
+[CAR] Speed: 31,1 km/h | LocalZ: 0,73
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,103 | SideSlip:-0,622
+Wheel R not grounded!
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,325 | SideSlip:-1,302
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,118 | SideSlip:-1,394
+[CAR] Speed: 20,0 km/h | LocalZ: 0,00
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,055 | SideSlip:-0,545
+Wheel R not grounded!
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,627 | SideSlip:-1,290
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,181 | SideSlip:-1,265
+[CAR] Speed: 9,6 km/h | LocalZ: 0,46
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,065 | SideSlip:-0,006
+Wheel R not grounded!
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,317 | SideSlip:-1,056
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,626 | SideSlip:-1,200
+[CAR] Speed: 5,6 km/h | LocalZ: 1,38
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,153 | SideSlip:0,013
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,054 | SideSlip:0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,746 | SideSlip:-0,330
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,201 | SideSlip:-0,335
+[CAR] Speed: 7,8 km/h | LocalZ: 2,11
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,065 | SideSlip:-0,027
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,059 | SideSlip:0,066
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,026 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,183 | SideSlip:0,002
+[CAR] Speed: 8,1 km/h | LocalZ: 2,19
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,067 | SideSlip:-0,031
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,123 | SideSlip:0,064
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,065 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,187 | SideSlip:0,002
+[CAR] Speed: 8,4 km/h | LocalZ: 2,28
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,054 | SideSlip:-0,026
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,058 | SideSlip:0,068
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,108 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,260 | SideSlip:0,002
+[CAR] Speed: 0,1 km/h | LocalZ: 0,00
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,002
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,000
+[CAR] Speed: 0,1 km/h | LocalZ: -0,01
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:-0,001
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,001
+[CAR] Speed: 0,0 km/h | LocalZ: 0,00
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,000
+[CAR] Speed: 1,5 km/h | LocalZ: -0,43
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,063 | SideSlip:-0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,136 | SideSlip:-0,008
+Wheel L | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:1,465 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,266 | SideSlip:0,003
+[CAR] Speed: 3,4 km/h | LocalZ: -0,93
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,099 | SideSlip:0,052
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,129 | SideSlip:-0,013
+Wheel L | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,724 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:-0,145 | SideSlip:-0,001
+[CAR] Speed: 4,9 km/h | LocalZ: -1,31
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,104 | SideSlip:0,059
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,084 | SideSlip:-0,016
+Wheel L | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,692 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,918 | SideSlip:-0,010
+[CAR] Speed: 6,4 km/h | LocalZ: -1,73
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,039 | SideSlip:0,061
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,084 | SideSlip:-0,025
+Wheel L | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,230 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:-0,010
+[CAR] Speed: 8,2 km/h | LocalZ: -2,20
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,020 | SideSlip:0,075
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,071 | SideSlip:-0,011
+Wheel L | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,008 | SideSlip:-0,011
+Wheel R | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,707 | SideSlip:-0,014
+[CAR] Speed: 9,9 km/h | LocalZ: -2,69
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:0,075
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,022 | SideSlip:-0,016
+Wheel L | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:-0,463 | SideSlip:-0,016
+Wheel R | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,135 | SideSlip:-0,019
+[CAR] Speed: 11,8 km/h | LocalZ: -3,18
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,097 | SideSlip:0,072
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,029 | SideSlip:-0,026
+Wheel L | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:0,194 | SideSlip:-0,012
+Wheel R | Steer:0,0 | Motor:-1500,0 | Brake:0,0 | ForwardSlip:-0,051 | SideSlip:-0,015
+[CAR] Speed: 12,5 km/h | LocalZ: -3,36
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,045 | SideSlip:0,060
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,071 | SideSlip:-0,046
+Wheel L | Steer:0,0 | Motor:-750,0 | Brake:0,0 | ForwardSlip:-0,320 | SideSlip:-0,013
+Wheel R | Steer:0,0 | Motor:-750,0 | Brake:0,0 | ForwardSlip:-0,443 | SideSlip:-0,017
+[CAR] Speed: 4,5 km/h | LocalZ: -1,17
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,937 | SideSlip:-0,380
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,903 | SideSlip:-0,477
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:3000,0 | ForwardSlip:0,937 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:3000,0 | ForwardSlip:0,903 | SideSlip:-0,008
+[CAR] Speed: 0,1 km/h | LocalZ: 0,02
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,025
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,025
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,000 | SideSlip:0,000
+[CAR] Speed: 2,9 km/h | LocalZ: 0,80
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,142 | SideSlip:-0,009
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:0,051
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,142 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,506 | SideSlip:-0,002
+[CAR] Speed: 5,6 km/h | LocalZ: 1,52
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,083 | SideSlip:-0,007
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,063 | SideSlip:0,069
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,097 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,701 | SideSlip:0,000
+[CAR] Speed: 8,2 km/h | LocalZ: 2,22
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,105 | SideSlip:-0,006
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,062 | SideSlip:0,078
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,095 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,580 | SideSlip:-0,005
+[CAR] Speed: 10,5 km/h | LocalZ: 2,85
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:-0,006
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,061 | SideSlip:0,086
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,042 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,341 | SideSlip:0,005
+[CAR] Speed: 12,9 km/h | LocalZ: 3,52
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:-0,004
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,060 | SideSlip:0,092
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,396 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,297 | SideSlip:0,007
+[CAR] Speed: 15,5 km/h | LocalZ: 4,20
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,078 | SideSlip:-0,014
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,057 | SideSlip:0,090
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,449 | SideSlip:0,020
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,257 | SideSlip:0,015
+[CAR] Speed: 17,8 km/h | LocalZ: 4,95
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,099 | SideSlip:-0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,056 | SideSlip:-0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,072 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,218 | SideSlip:0,006
+[CAR] Speed: 21,2 km/h | LocalZ: 5,90
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,659 | SideSlip:0,020
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,245 | SideSlip:0,020
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,574 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,535 | SideSlip:0,000
+[CAR] Speed: 23,0 km/h | LocalZ: 6,38
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,201 | SideSlip:0,013
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,170 | SideSlip:0,013
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-1,404 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-1,561 | SideSlip:0,001
+[CAR] Speed: 26,8 km/h | LocalZ: 7,46
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,080 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,340 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,078 | SideSlip:0,015
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-1,172 | SideSlip:0,015
+[CAR] Speed: 29,9 km/h | LocalZ: 8,29
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,108 | SideSlip:-0,024
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,207 | SideSlip:-0,023
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,598 | SideSlip:0,016
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,251 | SideSlip:0,016
+[CAR] Speed: 31,8 km/h | LocalZ: 8,82
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,133 | SideSlip:0,015
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,340 | SideSlip:0,015
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,836 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,636 | SideSlip:-0,008
+[CAR] Speed: 35,2 km/h | LocalZ: 9,76
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,306 | SideSlip:-0,475
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,313 | SideSlip:-0,475
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,339 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,008 | SideSlip:0,005
+[CAR] Speed: 35,6 km/h | LocalZ: 9,86
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,178 | SideSlip:-0,308
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,130 | SideSlip:-0,282
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,570 | SideSlip:-0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,360 | SideSlip:-0,022
+[CAR] Speed: 36,8 km/h | LocalZ: 10,22
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,048 | SideSlip:0,147
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,200 | SideSlip:0,165
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,992 | SideSlip:-0,048
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,521 | SideSlip:-0,053
+[CAR] Speed: 39,8 km/h | LocalZ: 11,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,288 | SideSlip:0,020
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:0,021
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,709 | SideSlip:-0,013
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,598 | SideSlip:-0,013
+[CAR] Speed: 43,5 km/h | LocalZ: 12,09
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,071 | SideSlip:0,013
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,086 | SideSlip:0,013
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,263 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,524 | SideSlip:-0,005
+[CAR] Speed: 44,2 km/h | LocalZ: 12,29
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,087 | SideSlip:0,114
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,059 | SideSlip:0,123
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,489 | SideSlip:-0,023
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,325 | SideSlip:-0,025
+[CAR] Speed: 46,9 km/h | LocalZ: 13,04
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,176 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,120 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,158 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,610 | SideSlip:0,006
+[CAR] Speed: 47,8 km/h | LocalZ: 13,27
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,070 | SideSlip:-0,406
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,062 | SideSlip:-0,399
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,488 | SideSlip:-0,015
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,408 | SideSlip:-0,016
+[CAR] Speed: 49,9 km/h | LocalZ: 13,85
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,023 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,192 | SideSlip:0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,599 | SideSlip:-0,017
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,499 | SideSlip:-0,017
+[CAR] Speed: 53,2 km/h | LocalZ: 14,78
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,204 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,106 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,414 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,544 | SideSlip:-0,001
+[CAR] Speed: 54,9 km/h | LocalZ: 15,23
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,141 | SideSlip:-0,413
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:-0,406
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,391 | SideSlip:-0,024
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,227 | SideSlip:-0,026
+[CAR] Speed: 56,2 km/h | LocalZ: 15,60
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,218 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,085 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,531 | SideSlip:-0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,270 | SideSlip:-0,010
+[CAR] Speed: 60,4 km/h | LocalZ: 16,77
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,187 | SideSlip:0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,238 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,454 | SideSlip:-0,003
+[CAR] Speed: 63,5 km/h | LocalZ: 17,64
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,190 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,067 | SideSlip:0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,288 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,456 | SideSlip:-0,004
+[CAR] Speed: 67,0 km/h | LocalZ: 18,61
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,182 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,066 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,116 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,123 | SideSlip:-0,002
+[CAR] Speed: 69,0 km/h | LocalZ: 19,16
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,110 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,056 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,017 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,100 | SideSlip:-0,001
+[CAR] Speed: 72,4 km/h | LocalZ: 20,11
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,175 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,144 | SideSlip:0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,133 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,318 | SideSlip:-0,003
+[CAR] Speed: 74,4 km/h | LocalZ: 20,66
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,082 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,100 | SideSlip:-0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,386 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,411 | SideSlip:0,007
+[CAR] Speed: 77,8 km/h | LocalZ: 21,61
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,124 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,113 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,147 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,060 | SideSlip:0,003
+[CAR] Speed: 81,0 km/h | LocalZ: 22,50
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,028 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,378 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,351 | SideSlip:0,001
+[CAR] Speed: 83,0 km/h | LocalZ: 23,06
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,042 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,153 | SideSlip:-0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,074 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,317 | SideSlip:0,003
+[CAR] Speed: 86,6 km/h | LocalZ: 24,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,080 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,097 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,339 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,442 | SideSlip:-0,001
+[CAR] Speed: 90,2 km/h | LocalZ: 25,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,060 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,129 | SideSlip:-0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,333 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,046 | SideSlip:0,004
+[CAR] Speed: 92,3 km/h | LocalZ: 25,63
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,040 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,097 | SideSlip:0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,311 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,341 | SideSlip:-0,005
+[CAR] Speed: 95,8 km/h | LocalZ: 26,60
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,066 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,094 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,148 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,337 | SideSlip:-0,001
+[CAR] Speed: 98,5 km/h | LocalZ: 27,37
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,093 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,074 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,406 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,279 | SideSlip:0,001
+[CAR] Speed: 100,2 km/h | LocalZ: 27,82
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,059 | SideSlip:0,487
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,076 | SideSlip:0,488
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,104 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,254 | SideSlip:0,007
+[CAR] Speed: 97,4 km/h | LocalZ: 27,05
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,038 | SideSlip:0,497
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,087 | SideSlip:0,498
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,168 | SideSlip:0,069
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,204 | SideSlip:0,066
+[CAR] Speed: 88,7 km/h | LocalZ: 24,53
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,995 | SideSlip:0,559
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,857 | SideSlip:0,558
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,826 | SideSlip:0,129
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,196 | SideSlip:0,124
+[CAR] Speed: 78,1 km/h | LocalZ: 21,52
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,994 | SideSlip:0,594
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,995 | SideSlip:0,592
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,995 | SideSlip:0,145
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,802 | SideSlip:0,141
+[CAR] Speed: 66,1 km/h | LocalZ: 18,29
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,994 | SideSlip:0,577
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,994 | SideSlip:0,577
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,995 | SideSlip:0,100
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,317 | SideSlip:0,098
+[CAR] Speed: 54,3 km/h | LocalZ: 15,07
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,992 | SideSlip:0,498
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,993 | SideSlip:0,498
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,994 | SideSlip:0,021
+[CAR] Speed: 47,7 km/h | LocalZ: 13,24
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,153 | SideSlip:-0,399
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,113 | SideSlip:-0,390
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,436 | SideSlip:-0,021
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,272 | SideSlip:-0,023
+[CAR] Speed: 47,7 km/h | LocalZ: 13,24
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,137 | SideSlip:-0,365
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,101 | SideSlip:-0,348
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,048 | SideSlip:-0,046
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,083 | SideSlip:-0,051
+[CAR] Speed: 50,0 km/h | LocalZ: 13,88
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,075 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,064 | SideSlip:0,010
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,295 | SideSlip:-0,031
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,168 | SideSlip:-0,032
+[CAR] Speed: 50,6 km/h | LocalZ: 14,05
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,163 | SideSlip:-0,395
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,089 | SideSlip:-0,385
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,429 | SideSlip:-0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,409 | SideSlip:-0,035
+[CAR] Speed: 52,0 km/h | LocalZ: 14,43
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,226 | SideSlip:-0,371
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,100 | SideSlip:-0,354
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,078 | SideSlip:-0,053
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,441 | SideSlip:-0,060
+[CAR] Speed: 53,8 km/h | LocalZ: 14,94
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,271 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,137 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,513 | SideSlip:-0,013
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,476 | SideSlip:-0,014
+[CAR] Speed: 54,6 km/h | LocalZ: 15,15
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:-0,416
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,042 | SideSlip:-0,408
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,399 | SideSlip:-0,029
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,540 | SideSlip:-0,030
+[CAR] Speed: 55,9 km/h | LocalZ: 15,53
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,095 | SideSlip:-0,388
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,084 | SideSlip:-0,374
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,044 | SideSlip:-0,054
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,400 | SideSlip:-0,059
+[CAR] Speed: 55,6 km/h | LocalZ: 15,44
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,104 | SideSlip:-0,402
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,028 | SideSlip:-0,391
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,409 | SideSlip:-0,054
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,113 | SideSlip:-0,059
+[CAR] Speed: 56,9 km/h | LocalZ: 15,81
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,117 | SideSlip:-0,011
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,198 | SideSlip:-0,012
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,394 | SideSlip:-0,020
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,393 | SideSlip:-0,020
+[CAR] Speed: 60,2 km/h | LocalZ: 16,73
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,191 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,139 | SideSlip:0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,072 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,477 | SideSlip:-0,005
+[CAR] Speed: 61,1 km/h | LocalZ: 16,96
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,187 | SideSlip:-0,437
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,072 | SideSlip:-0,433
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,005 | SideSlip:-0,016
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,515 | SideSlip:-0,017
+[CAR] Speed: 61,8 km/h | LocalZ: 17,17
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,039 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:-0,032
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,165 | SideSlip:-0,033
+[CAR] Speed: 65,2 km/h | LocalZ: 18,10
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,140 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,099 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,409 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,424 | SideSlip:-0,002
+[CAR] Speed: 66,5 km/h | LocalZ: 18,48
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,133 | SideSlip:-0,434
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,119 | SideSlip:-0,430
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,123 | SideSlip:-0,020
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,062 | SideSlip:-0,021
+[CAR] Speed: 68,7 km/h | LocalZ: 19,08
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,168 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,012 | SideSlip:-0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,425 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,435 | SideSlip:-0,004
+[CAR] Speed: 71,6 km/h | LocalZ: 19,87
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,164 | SideSlip:0,011
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,093 | SideSlip:0,011
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,177 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,339 | SideSlip:-0,004
+[CAR] Speed: 74,4 km/h | LocalZ: 20,66
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,003 | SideSlip:-0,494
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,183 | SideSlip:-0,494
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,334 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,488 | SideSlip:0,002
+[CAR] Speed: 74,8 km/h | LocalZ: 20,79
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,099 | SideSlip:-0,446
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,051 | SideSlip:-0,442
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,173 | SideSlip:-0,037
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,144 | SideSlip:-0,040
+[CAR] Speed: 76,0 km/h | LocalZ: 21,11
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,201 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,075 | SideSlip:-0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,271 | SideSlip:-0,024
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,205 | SideSlip:-0,024
+[CAR] Speed: 79,8 km/h | LocalZ: 22,15
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,059 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,106 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,370 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,438 | SideSlip:0,000
+[CAR] Speed: 83,3 km/h | LocalZ: 23,13
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,084 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,071 | SideSlip:0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,203 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,394 | SideSlip:0,005
+[CAR] Speed: 85,7 km/h | LocalZ: 23,80
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,086 | SideSlip:0,012
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:0,012
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,346 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,362 | SideSlip:0,004
+[CAR] Speed: 88,5 km/h | LocalZ: 24,58
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,072 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,069 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,358 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,454 | SideSlip:0,019
+[CAR] Speed: 92,0 km/h | LocalZ: 25,54
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,129 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,155 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,028 | SideSlip:0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:0,010
+[CAR] Speed: 94,0 km/h | LocalZ: 26,11
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,041 | SideSlip:-0,477
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,048 | SideSlip:-0,476
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,110 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,310 | SideSlip:0,006
+[CAR] Speed: 95,7 km/h | LocalZ: 26,58
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,115 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,065 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:-0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,294 | SideSlip:-0,020
+[CAR] Speed: 99,0 km/h | LocalZ: 27,50
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,049 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,112 | SideSlip:0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,119 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,278 | SideSlip:0,002
+[CAR] Speed: 101,3 km/h | LocalZ: 28,15
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,067 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,112 | SideSlip:0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,129 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,408 | SideSlip:0,008
+[CAR] Speed: 102,6 km/h | LocalZ: 28,51
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,136 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,128 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,012 | SideSlip:-0,016
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,104 | SideSlip:-0,016
+[CAR] Speed: 103,2 km/h | LocalZ: 28,65
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,126 | SideSlip:-0,478
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,024 | SideSlip:-0,476
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,288 | SideSlip:-0,018
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,272 | SideSlip:-0,018
+[CAR] Speed: 106,3 km/h | LocalZ: 29,53
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,185 | SideSlip:-0,512
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,073 | SideSlip:-0,511
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,043 | SideSlip:-0,026
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,282 | SideSlip:-0,027
+[CAR] Speed: 105,9 km/h | LocalZ: 29,41
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,049 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,038 | SideSlip:-0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,160 | SideSlip:-0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,107 | SideSlip:-0,034
+[CAR] Speed: 107,1 km/h | LocalZ: 29,73
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,085 | SideSlip:0,017
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,104 | SideSlip:0,018
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,301 | SideSlip:-0,044
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,173 | SideSlip:-0,045
+[CAR] Speed: 110,4 km/h | LocalZ: 30,65
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,104 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,044 | SideSlip:-0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,308 | SideSlip:-0,021
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,296 | SideSlip:-0,021
+[CAR] Speed: 112,6 km/h | LocalZ: 31,27
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,121 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,095 | SideSlip:0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,372 | SideSlip:-0,009
+[CAR] Speed: 115,7 km/h | LocalZ: 32,15
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,144 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,106 | SideSlip:0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,183 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:0,009
+[CAR] Speed: 115,8 km/h | LocalZ: 32,17
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,046 | SideSlip:0,029
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,182 | SideSlip:0,030
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,130 | SideSlip:-0,029
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,136 | SideSlip:-0,030
+[CAR] Speed: 118,2 km/h | LocalZ: 32,83
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,087 | SideSlip:-0,496
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,057 | SideSlip:-0,496
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,359 | SideSlip:-0,039
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,135 | SideSlip:-0,041
+[CAR] Speed: 120,3 km/h | LocalZ: 33,40
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,042 | SideSlip:-0,524
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,171 | SideSlip:-0,524
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,322 | SideSlip:-0,029
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,131 | SideSlip:-0,029
+[CAR] Speed: 123,0 km/h | LocalZ: 34,15
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,030 | SideSlip:-0,006
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,053 | SideSlip:-0,006
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,156 | SideSlip:-0,022
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,278 | SideSlip:-0,023
+[CAR] Speed: 123,6 km/h | LocalZ: 34,32
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,085 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,008 | SideSlip:-0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,113 | SideSlip:-0,034
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,254 | SideSlip:-0,035
+[CAR] Speed: 126,0 km/h | LocalZ: 34,99
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,130 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,021 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,009 | SideSlip:-0,031
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,038 | SideSlip:-0,031
+[CAR] Speed: 127,5 km/h | LocalZ: 35,42
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,042 | SideSlip:-0,501
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,021 | SideSlip:-0,501
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,280 | SideSlip:-0,026
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,216 | SideSlip:-0,026
+[CAR] Speed: 129,3 km/h | LocalZ: 35,92
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,073 | SideSlip:-0,510
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,044 | SideSlip:-0,510
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,084 | SideSlip:-0,027
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,036 | SideSlip:-0,027
+[CAR] Speed: 131,1 km/h | LocalZ: 36,41
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,151 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:-0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,047 | SideSlip:-0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,268 | SideSlip:-0,033
+[CAR] Speed: 132,9 km/h | LocalZ: 36,90
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,146 | SideSlip:-0,010
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,088 | SideSlip:-0,010
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,035 | SideSlip:-0,037
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,157 | SideSlip:-0,038
+[CAR] Speed: 135,0 km/h | LocalZ: 37,49
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,118 | SideSlip:-0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,066 | SideSlip:-0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,070 | SideSlip:-0,021
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,173 | SideSlip:-0,021
+[CAR] Speed: 138,4 km/h | LocalZ: 38,45
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,097 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,074 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,316 | SideSlip:-0,011
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,084 | SideSlip:-0,011
+[CAR] Speed: 142,9 km/h | LocalZ: 39,69
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,062 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,057 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,227 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,091 | SideSlip:0,002
+[CAR] Speed: 144,5 km/h | LocalZ: 40,14
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,057 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,094 | SideSlip:0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,114 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,347 | SideSlip:0,004
+[CAR] Speed: 148,4 km/h | LocalZ: 41,22
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,044 | SideSlip:0,012
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:0,011
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,146 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,138 | SideSlip:0,019
+[CAR] Speed: 146,7 km/h | LocalZ: 40,74
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,104 | SideSlip:-0,497
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,028 | SideSlip:-0,496
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,114 | SideSlip:-0,052
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,288 | SideSlip:-0,054
+[CAR] Speed: 147,8 km/h | LocalZ: 40,85
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,100 | SideSlip:-0,060
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:-0,062
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,210 | SideSlip:-0,115
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,140 | SideSlip:-0,119
+[CAR] Speed: 147,8 km/h | LocalZ: 40,60
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,113 | SideSlip:-0,632
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,142 | SideSlip:-0,635
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,252 | SideSlip:-0,176
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,174 | SideSlip:-0,182
+[CAR] Speed: 147,0 km/h | LocalZ: 40,18
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,085 | SideSlip:-0,152
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,040 | SideSlip:-0,156
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,298 | SideSlip:-0,195
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,145 | SideSlip:-0,200
+[CAR] Speed: 147,0 km/h | LocalZ: 39,92
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,111 | SideSlip:-0,172
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,001 | SideSlip:-0,178
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,254 | SideSlip:-0,228
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,198 | SideSlip:-0,236
+[CAR] Speed: 147,2 km/h | LocalZ: 39,58
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,090 | SideSlip:0,280
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,005 | SideSlip:0,276
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,324 | SideSlip:-0,259
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,191 | SideSlip:-0,263
+[CAR] Speed: 148,6 km/h | LocalZ: 41,26
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,110 | SideSlip:-0,096
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,028 | SideSlip:-0,092
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,048 | SideSlip:-0,024
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,129 | SideSlip:-0,023
+[CAR] Speed: 150,4 km/h | LocalZ: 41,75
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,087 | SideSlip:-0,477
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,075 | SideSlip:-0,477
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,189 | SideSlip:0,041
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,332 | SideSlip:0,041
+[CAR] Speed: 150,2 km/h | LocalZ: 41,69
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:-0,023
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,009 | SideSlip:-0,023
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,118 | SideSlip:-0,064
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,090 | SideSlip:-0,065
+[CAR] Speed: 153,2 km/h | LocalZ: 42,48
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,106 | SideSlip:-0,041
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,009 | SideSlip:-0,042
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:-0,080
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,143 | SideSlip:-0,082
+[CAR] Speed: 154,9 km/h | LocalZ: 42,92
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,076 | SideSlip:-0,047
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,008 | SideSlip:-0,047
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,222 | SideSlip:-0,086
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:-0,087
+[CAR] Speed: 158,4 km/h | LocalZ: 43,86
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:-0,062
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,003 | SideSlip:-0,063
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,126 | SideSlip:-0,100
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,085 | SideSlip:-0,101
+[CAR] Speed: 159,6 km/h | LocalZ: 44,04
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,057 | SideSlip:-0,092
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,003 | SideSlip:-0,094
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,258 | SideSlip:-0,133
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:-0,136
+[CAR] Speed: 160,1 km/h | LocalZ: 43,91
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,112 | SideSlip:0,388
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,068 | SideSlip:0,384
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,045 | SideSlip:-0,170
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,163 | SideSlip:-0,174
+[CAR] Speed: 161,0 km/h | LocalZ: 44,69
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,014 | SideSlip:-0,029
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,058 | SideSlip:-0,027
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,011 | SideSlip:0,075
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,068 | SideSlip:0,071
+[CAR] Speed: 162,5 km/h | LocalZ: 44,41
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,004 | SideSlip:0,140
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,072 | SideSlip:0,135
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,054 | SideSlip:0,199
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,111 | SideSlip:0,193
+[CAR] Speed: 161,9 km/h | LocalZ: 44,59
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,036 | SideSlip:0,183
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,032 | SideSlip:0,189
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,096 | SideSlip:0,120
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,008 | SideSlip:0,124
+[CAR] Speed: 163,6 km/h | LocalZ: 45,39
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,024 | SideSlip:-0,521
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,017 | SideSlip:-0,521
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,217 | SideSlip:-0,056
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,094 | SideSlip:-0,058
+[CAR] Speed: 163,6 km/h | LocalZ: 45,03
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,054 | SideSlip:0,385
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:0,385
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,155 | SideSlip:-0,132
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:-0,133
+[CAR] Speed: 166,2 km/h | LocalZ: 46,16
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,100 | SideSlip:-0,012
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,003 | SideSlip:-0,012
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,078 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,140 | SideSlip:-0,001
+[CAR] Speed: 168,1 km/h | LocalZ: 46,69
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,012 | SideSlip:-0,498
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,031 | SideSlip:-0,498
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,190 | SideSlip:-0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,133 | SideSlip:-0,003
+[CAR] Speed: 170,1 km/h | LocalZ: 47,20
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:-0,024
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,006 | SideSlip:-0,025
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,092 | SideSlip:-0,047
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,214 | SideSlip:-0,047
+[CAR] Speed: 171,4 km/h | LocalZ: 47,53
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:-0,042
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:-0,043
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:-0,067
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,038 | SideSlip:-0,068
+[CAR] Speed: 174,3 km/h | LocalZ: 48,26
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,058 | SideSlip:-0,071
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,004 | SideSlip:-0,072
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,227 | SideSlip:-0,095
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,024 | SideSlip:-0,097
+[CAR] Speed: 175,9 km/h | LocalZ: 48,57
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,050 | SideSlip:0,406
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,406
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,079 | SideSlip:-0,105
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,044 | SideSlip:-0,105
+[CAR] Speed: 177,1 km/h | LocalZ: 49,19
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,082 | SideSlip:-0,024
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:-0,024
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,055 | SideSlip:-0,028
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,005 | SideSlip:-0,028
+[CAR] Speed: 180,7 km/h | LocalZ: 50,18
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,062 | SideSlip:-0,021
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,005 | SideSlip:-0,021
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,184 | SideSlip:-0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,109 | SideSlip:-0,033
+[CAR] Speed: 182,4 km/h | LocalZ: 50,67
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,038 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,040 | SideSlip:0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,177 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,070 | SideSlip:0,019
+[CAR] Speed: 185,8 km/h | LocalZ: 51,58
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:0,021
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,059 | SideSlip:0,021
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,082 | SideSlip:0,036
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:0,036
+[CAR] Speed: 186,1 km/h | LocalZ: 51,63
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,123 | SideSlip:0,038
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,070 | SideSlip:0,038
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,019 | SideSlip:0,059
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,205 | SideSlip:0,059
+[CAR] Speed: 188,5 km/h | LocalZ: 52,13
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:0,073
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,062 | SideSlip:0,072
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,048 | SideSlip:0,106
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,015 | SideSlip:0,104
+[CAR] Speed: 189,3 km/h | LocalZ: 52,12
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:0,115
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:0,113
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:0,145
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,053 | SideSlip:0,142
+[CAR] Speed: 191,2 km/h | LocalZ: 52,29
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,002 | SideSlip:0,160
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,048 | SideSlip:0,157
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,028 | SideSlip:0,185
+[CAR] Speed: 191,0 km/h | LocalZ: 52,45
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:0,166
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,024 | SideSlip:0,167
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,123 | SideSlip:0,150
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,095 | SideSlip:0,151
+[CAR] Speed: 193,5 km/h | LocalZ: 53,70
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,002 | SideSlip:0,054
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,030 | SideSlip:0,054
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,056 | SideSlip:0,043
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,185 | SideSlip:0,043
+[CAR] Speed: 194,1 km/h | LocalZ: 53,90
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,140 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,125 | SideSlip:0,020
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,175 | SideSlip:-0,022
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,196 | SideSlip:-0,023
+[CAR] Speed: 196,5 km/h | LocalZ: 54,45
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,028 | SideSlip:-0,050
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:-0,051
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,147 | SideSlip:-0,078
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,063 | SideSlip:-0,080
+[CAR] Speed: 196,7 km/h | LocalZ: 54,62
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,082 | SideSlip:-0,534
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,181 | SideSlip:-0,535
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,149 | SideSlip:-0,163
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,082 | SideSlip:-0,178
+[CAR] Speed: 194,9 km/h | LocalZ: 53,73
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,018 | SideSlip:-0,085
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,067 | SideSlip:-0,088
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,388 | SideSlip:-0,141
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,019 | SideSlip:-0,146
+[CAR] Speed: 195,4 km/h | LocalZ: 52,40
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,041 | SideSlip:-0,230
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,237
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,127 | SideSlip:-0,279
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,033 | SideSlip:-0,288
+[CAR] Speed: 194,9 km/h | LocalZ: 52,41
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,030 | SideSlip:0,223
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,005 | SideSlip:0,232
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,149 | SideSlip:-0,240
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,037 | SideSlip:-0,233
+[CAR] Speed: 194,1 km/h | LocalZ: 53,32
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,125 | SideSlip:0,043
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,132 | SideSlip:0,040
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:0,179
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,161 | SideSlip:0,166
+[CAR] Speed: 190,9 km/h | LocalZ: 47,30
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:-0,079
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,043 | SideSlip:-0,091
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,122 | SideSlip:0,477
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,013 | SideSlip:0,465
+[CAR] Speed: 187,9 km/h | LocalZ: 48,88
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:-0,106
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,029 | SideSlip:-0,089
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,043 | SideSlip:0,341
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,135 | SideSlip:0,356
+[CAR] Speed: 184,2 km/h | LocalZ: 50,57
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,170 | SideSlip:-0,043
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,135 | SideSlip:-0,048
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,155 | SideSlip:-0,210
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,080 | SideSlip:-0,232
+[CAR] Speed: 180,8 km/h | LocalZ: 42,66
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,062 | SideSlip:0,006
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:-0,011
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,118 | SideSlip:-0,557
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,115 | SideSlip:-0,574
+[CAR] Speed: 176,6 km/h | LocalZ: 38,58
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,076 | SideSlip:-0,108
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,125
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,085 | SideSlip:-0,660
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,023 | SideSlip:-0,678
+[CAR] Speed: 168,7 km/h | LocalZ: 33,79
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,036 | SideSlip:-1,234
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,678 | SideSlip:-1,255
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,074 | SideSlip:-0,755
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,024 | SideSlip:-0,776
+[CAR] Speed: 160,3 km/h | LocalZ: 28,38
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,037 | SideSlip:-0,312
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,007 | SideSlip:-0,337
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,059 | SideSlip:-0,863
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:0,021 | SideSlip:-0,888
+[CAR] Speed: 149,8 km/h | LocalZ: 21,23
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,992 | SideSlip:-0,450
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,997 | SideSlip:-0,482
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:3000,0 | ForwardSlip:-0,121 | SideSlip:-1,003
+Wheel R not grounded!
+[CAR] Speed: 139,3 km/h | LocalZ: 11,55
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,040 | SideSlip:-0,650
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,337 | SideSlip:-0,713
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,452 | SideSlip:-1,212
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,264 | SideSlip:-1,269
+[CAR] Speed: 126,5 km/h | LocalZ: 1,56
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,010 | SideSlip:-0,960
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,100 | SideSlip:-1,033
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,549 | SideSlip:-1,489
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,068 | SideSlip:-1,533
+[CAR] Speed: 111,7 km/h | LocalZ: -11,59
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,256 | SideSlip:-1,369
+Wheel R not grounded!
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,493 | SideSlip:-1,237
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:-1,159
+[CAR] Speed: 101,6 km/h | LocalZ: -18,60
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,097 | SideSlip:-1,326
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:1,617 | SideSlip:-1,253
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,195 | SideSlip:-0,924
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,330 | SideSlip:-0,853
+[CAR] Speed: 90,9 km/h | LocalZ: -22,56
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,200 | SideSlip:-0,904
+Wheel R not grounded!
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,136 | SideSlip:-0,564
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,268 | SideSlip:-0,508
+[CAR] Speed: 85,3 km/h | LocalZ: -23,68
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,170 | SideSlip:-0,411
+Wheel R not grounded!
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,321 | SideSlip:-0,134
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,239 | SideSlip:-0,117
+[CAR] Speed: 80,1 km/h | LocalZ: -20,02
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,020 | SideSlip:0,121
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:0,011
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,297 | SideSlip:0,252
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:0,200
+[CAR] Speed: 76,9 km/h | LocalZ: -14,62
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,005 | SideSlip:0,480
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,008 | SideSlip:0,349
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,358 | SideSlip:0,636
+[CAR] Speed: 68,5 km/h | LocalZ: -8,19
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-1,642 | SideSlip:1,290
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,858 | SideSlip:1,433
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,522 | SideSlip:1,126
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,563 | SideSlip:0,959
+[CAR] Speed: 55,0 km/h | LocalZ: -1,45
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,547 | SideSlip:0,973
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,076 | SideSlip:1,134
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,153 | SideSlip:1,309
+[CAR] Speed: 42,6 km/h | LocalZ: 3,29
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,004 | SideSlip:0,673
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,036 | SideSlip:0,827
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,106 | SideSlip:1,237
+[CAR] Speed: 33,8 km/h | LocalZ: 6,37
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,003 | SideSlip:0,344
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,172 | SideSlip:0,481
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,228 | SideSlip:0,592
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-1,311 | SideSlip:0,729
+[CAR] Speed: 32,2 km/h | LocalZ: 8,61
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:-0,035
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,189 | SideSlip:0,072
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,528 | SideSlip:0,106
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,653 | SideSlip:0,134
+[CAR] Speed: 33,9 km/h | LocalZ: 9,33
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,172 | SideSlip:-0,147
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:-0,048
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,203 | SideSlip:-0,052
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,434 | SideSlip:-0,067
+[CAR] Speed: 34,5 km/h | LocalZ: 9,50
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,179 | SideSlip:-0,184
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,065 | SideSlip:-0,105
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,533 | SideSlip:-0,043
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,186 | SideSlip:-0,054
+[CAR] Speed: 36,3 km/h | LocalZ: 10,08
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,123 | SideSlip:0,010
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,114 | SideSlip:0,010
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,248 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,586 | SideSlip:-0,001
+[CAR] Speed: 39,8 km/h | LocalZ: 11,07
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,080 | SideSlip:-0,009
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,165 | SideSlip:-0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,583 | SideSlip:0,016
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,368 | SideSlip:0,016
+[CAR] Speed: 39,6 km/h | LocalZ: 10,95
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,280 | SideSlip:-0,310
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,157 | SideSlip:-0,283
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,596 | SideSlip:-0,025
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,560 | SideSlip:-0,028
+[CAR] Speed: 41,2 km/h | LocalZ: 11,43
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,258 | SideSlip:0,137
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,066 | SideSlip:0,153
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,572 | SideSlip:-0,042
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,187 | SideSlip:-0,047
+[CAR] Speed: 44,0 km/h | LocalZ: 12,21
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,218 | SideSlip:0,010
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,226 | SideSlip:0,010
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,462 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,591 | SideSlip:0,007
+[CAR] Speed: 46,2 km/h | LocalZ: 12,84
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,128 | SideSlip:-0,481
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,268 | SideSlip:-0,482
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,339 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,334 | SideSlip:0,014
+[CAR] Speed: 47,9 km/h | LocalZ: 13,30
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,156 | SideSlip:0,109
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,132 | SideSlip:0,118
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,288 | SideSlip:-0,031
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,381 | SideSlip:-0,034
+[CAR] Speed: 50,2 km/h | LocalZ: 13,93
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,082 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,279 | SideSlip:0,014
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,688 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,537 | SideSlip:-0,001
+[CAR] Speed: 53,0 km/h | LocalZ: 14,72
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,107 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,217 | SideSlip:0,000
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,296 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,356 | SideSlip:0,019
+[CAR] Speed: 55,2 km/h | LocalZ: 15,32
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,004 | SideSlip:0,003
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,209 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,496 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,322 | SideSlip:0,014
+[CAR] Speed: 56,9 km/h | LocalZ: 15,80
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,219 | SideSlip:-0,383
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,082 | SideSlip:-0,370
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,155 | SideSlip:-0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,443 | SideSlip:-0,036
+[CAR] Speed: 59,8 km/h | LocalZ: 16,61
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,175 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,257 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,235 | SideSlip:0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,572 | SideSlip:0,010
+[CAR] Speed: 61,5 km/h | LocalZ: 17,09
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,171 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,150 | SideSlip:0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,138 | SideSlip:0,013
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,048 | SideSlip:0,013
+[CAR] Speed: 64,8 km/h | LocalZ: 17,98
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,093 | SideSlip:-0,443
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,057 | SideSlip:-0,440
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,451 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,401 | SideSlip:0,003
+[CAR] Speed: 66,1 km/h | LocalZ: 18,35
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,093 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,100 | SideSlip:0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,165 | SideSlip:-0,009
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:-0,009
+[CAR] Speed: 70,3 km/h | LocalZ: 19,52
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,086 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,141 | SideSlip:0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,377 | SideSlip:0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,390 | SideSlip:0,010
+[CAR] Speed: 73,5 km/h | LocalZ: 20,43
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,149 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,214 | SideSlip:0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,376 | SideSlip:0,018
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,079 | SideSlip:0,018
+[CAR] Speed: 75,8 km/h | LocalZ: 21,05
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,138 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,139 | SideSlip:0,014
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,418 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,325 | SideSlip:0,009
+[CAR] Speed: 76,0 km/h | LocalZ: 21,11
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,121 | SideSlip:-0,440
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,072 | SideSlip:-0,435
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,122 | SideSlip:-0,023
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,266 | SideSlip:-0,024
+[CAR] Speed: 77,7 km/h | LocalZ: 21,58
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,140 | SideSlip:-0,453
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,040 | SideSlip:-0,448
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,217 | SideSlip:-0,063
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,143 | SideSlip:-0,067
+[CAR] Speed: 79,6 km/h | LocalZ: 22,11
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,134 | SideSlip:-0,010
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,060 | SideSlip:-0,010
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,436 | SideSlip:-0,011
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,183 | SideSlip:-0,011
+[CAR] Speed: 83,2 km/h | LocalZ: 23,11
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,047 | SideSlip:0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,153 | SideSlip:0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,194 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,190 | SideSlip:0,004
+[CAR] Speed: 86,2 km/h | LocalZ: 23,94
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,100 | SideSlip:0,007
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,087 | SideSlip:0,007
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,301 | SideSlip:0,012
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,454 | SideSlip:0,012
+[CAR] Speed: 88,0 km/h | LocalZ: 24,45
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,135 | SideSlip:-0,455
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,064 | SideSlip:-0,453
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,191 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,049 | SideSlip:-0,004
+[CAR] Speed: 89,8 km/h | LocalZ: 24,93
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:-0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,033 | SideSlip:-0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,413 | SideSlip:-0,039
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,213 | SideSlip:-0,040
+[CAR] Speed: 92,2 km/h | LocalZ: 25,61
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,116 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,031 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,343 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,309 | SideSlip:-0,007
+[CAR] Speed: 96,2 km/h | LocalZ: 26,73
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,092 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,074 | SideSlip:0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,198 | SideSlip:0,006
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,068 | SideSlip:0,006
+[CAR] Speed: 98,9 km/h | LocalZ: 27,47
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,105 | SideSlip:0,015
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,042 | SideSlip:0,015
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,237 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,382 | SideSlip:0,008
+[CAR] Speed: 101,2 km/h | LocalZ: 28,10
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,125 | SideSlip:0,011
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,076 | SideSlip:0,011
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,123 | SideSlip:0,015
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,033 | SideSlip:0,015
+[CAR] Speed: 105,1 km/h | LocalZ: 29,19
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,035 | SideSlip:0,012
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,035 | SideSlip:0,012
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,268 | SideSlip:0,016
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,403 | SideSlip:0,016
+[CAR] Speed: 108,1 km/h | LocalZ: 30,01
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,059 | SideSlip:0,014
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,060 | SideSlip:0,014
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,061 | SideSlip:0,015
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,407 | SideSlip:0,015
+[CAR] Speed: 109,5 km/h | LocalZ: 30,40
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,081 | SideSlip:0,011
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,021 | SideSlip:0,011
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,122 | SideSlip:0,020
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,206 | SideSlip:0,020
+[CAR] Speed: 111,6 km/h | LocalZ: 31,00
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,089 | SideSlip:-0,471
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,068 | SideSlip:-0,469
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,159 | SideSlip:-0,027
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,141 | SideSlip:-0,028
+[CAR] Speed: 110,9 km/h | LocalZ: 30,74
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,049 | SideSlip:-0,017
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,102 | SideSlip:-0,018
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,338 | SideSlip:-0,077
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,243 | SideSlip:-0,080
+[CAR] Speed: 113,1 km/h | LocalZ: 31,38
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,164 | SideSlip:-0,021
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:-0,022
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,152 | SideSlip:-0,068
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,257 | SideSlip:-0,070
+[CAR] Speed: 114,3 km/h | LocalZ: 31,74
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,146 | SideSlip:-0,507
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,016 | SideSlip:-0,506
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,335 | SideSlip:-0,044
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,315 | SideSlip:-0,045
+[CAR] Speed: 116,5 km/h | LocalZ: 32,35
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,140 | SideSlip:-0,008
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,069 | SideSlip:-0,008
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,217 | SideSlip:-0,033
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,127 | SideSlip:-0,033
+[CAR] Speed: 119,5 km/h | LocalZ: 33,19
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,107 | SideSlip:0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,092 | SideSlip:0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,328 | SideSlip:-0,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,241 | SideSlip:-0,014
+[CAR] Speed: 122,5 km/h | LocalZ: 34,02
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,089 | SideSlip:-0,001
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,111 | SideSlip:-0,001
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,223 | SideSlip:0,008
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,333 | SideSlip:0,008
+[CAR] Speed: 123,9 km/h | LocalZ: 34,40
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,036 | SideSlip:-0,485
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,013 | SideSlip:-0,484
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,355 | SideSlip:-0,015
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,021 | SideSlip:-0,015
+[CAR] Speed: 125,6 km/h | LocalZ: 34,86
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,086 | SideSlip:-0,018
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,009 | SideSlip:-0,018
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,374 | SideSlip:-0,044
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,264 | SideSlip:-0,045
+[CAR] Speed: 129,4 km/h | LocalZ: 35,94
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,152 | SideSlip:-0,011
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,040 | SideSlip:-0,011
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,134 | SideSlip:-0,026
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,071 | SideSlip:-0,026
+[CAR] Speed: 130,1 km/h | LocalZ: 36,14
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:-0,498
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,038 | SideSlip:-0,498
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,121 | SideSlip:-0,025
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,143 | SideSlip:-0,026
+[CAR] Speed: 131,5 km/h | LocalZ: 36,52
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,077 | SideSlip:-0,012
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,066 | SideSlip:-0,012
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,038 | SideSlip:-0,030
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,135 | SideSlip:-0,030
+[CAR] Speed: 136,7 km/h | LocalZ: 37,98
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,056 | SideSlip:-0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,068 | SideSlip:-0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,219 | SideSlip:-0,014
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,039 | SideSlip:-0,014
+[CAR] Speed: 138,6 km/h | LocalZ: 38,49
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,017 | SideSlip:-0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,278 | SideSlip:0,000
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,181 | SideSlip:0,000
+[CAR] Speed: 142,0 km/h | LocalZ: 39,43
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:0,003
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,054 | SideSlip:0,003
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,293 | SideSlip:0,004
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,281 | SideSlip:0,004
+[CAR] Speed: 143,2 km/h | LocalZ: 39,78
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,029 | SideSlip:-0,484
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,008 | SideSlip:-0,483
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,303 | SideSlip:-0,010
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,244 | SideSlip:-0,010
+[CAR] Speed: 142,8 km/h | LocalZ: 39,61
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,086 | SideSlip:-0,541
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,009 | SideSlip:-0,542
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,247 | SideSlip:-0,081
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,039 | SideSlip:-0,083
+[CAR] Speed: 141,4 km/h | LocalZ: 39,10
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,110 | SideSlip:-0,582
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,584
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,168 | SideSlip:-0,113
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,113 | SideSlip:-0,115
+[CAR] Speed: 140,6 km/h | LocalZ: 38,85
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,046 | SideSlip:-0,077
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,063 | SideSlip:-0,078
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:-0,112
+Wheel R not grounded!
+[CAR] Speed: 142,6 km/h | LocalZ: 39,38
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,128 | SideSlip:-0,081
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:-0,083
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,172 | SideSlip:-0,123
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,091 | SideSlip:-0,126
+[CAR] Speed: 145,1 km/h | LocalZ: 40,10
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,026 | SideSlip:-0,088
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,089
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,265 | SideSlip:-0,123
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,081 | SideSlip:-0,125
+[CAR] Speed: 146,4 km/h | LocalZ: 40,47
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,041 | SideSlip:-0,085
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,005 | SideSlip:-0,086
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:-0,121
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,034 | SideSlip:-0,123
+[CAR] Speed: 146,1 km/h | LocalZ: 40,49
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,060 | SideSlip:0,404
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:0,407
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,050 | SideSlip:-0,060
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,090 | SideSlip:-0,057
+[CAR] Speed: 147,8 km/h | LocalZ: 40,80
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:0,056
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,058 | SideSlip:0,054
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,208 | SideSlip:0,131
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,237 | SideSlip:0,125
+[CAR] Speed: 148,2 km/h | LocalZ: 40,26
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,008 | SideSlip:-0,317
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,009 | SideSlip:-0,319
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,210 | SideSlip:0,217
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,154 | SideSlip:0,214
+[CAR] Speed: 148,8 km/h | LocalZ: 41,31
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,046 | SideSlip:-0,448
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,024 | SideSlip:-0,442
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:-0,060
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,192 | SideSlip:-0,065
+[CAR] Speed: 146,9 km/h | LocalZ: 39,05
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,005 | SideSlip:-0,715
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,041 | SideSlip:-0,728
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,024 | SideSlip:-0,308
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,004 | SideSlip:-0,328
+[CAR] Speed: 144,1 km/h | LocalZ: 35,47
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,079 | SideSlip:0,064
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,040 | SideSlip:0,055
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,128 | SideSlip:-0,477
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,091 | SideSlip:-0,486
+[CAR] Speed: 141,0 km/h | LocalZ: 37,51
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:0,136
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,039 | SideSlip:0,164
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,110 | SideSlip:-0,237
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,205 | SideSlip:-0,219
+[CAR] Speed: 140,5 km/h | LocalZ: 38,40
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,028 | SideSlip:-0,415
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:-0,423
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,154 | SideSlip:0,223
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,226 | SideSlip:0,208
+[CAR] Speed: 139,8 km/h | LocalZ: 37,07
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:0,261
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,053 | SideSlip:0,252
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,137 | SideSlip:0,318
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,165 | SideSlip:0,308
+[CAR] Speed: 139,4 km/h | LocalZ: 36,83
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,011 | SideSlip:-0,179
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,026 | SideSlip:-0,174
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,021 | SideSlip:0,305
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,156 | SideSlip:0,310
+[CAR] Speed: 140,3 km/h | LocalZ: 38,94
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,022 | SideSlip:0,046
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,008 | SideSlip:0,049
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,170 | SideSlip:-0,088
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,132 | SideSlip:-0,096
+[CAR] Speed: 140,7 km/h | LocalZ: 38,64
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,111 | SideSlip:-0,172
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,082 | SideSlip:-0,170
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,152 | SideSlip:-0,150
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,020 | SideSlip:-0,148
+[CAR] Speed: 142,1 km/h | LocalZ: 39,45
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,196 | SideSlip:-0,557
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,154 | SideSlip:-0,557
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,226 | SideSlip:-0,034
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,063 | SideSlip:-0,034
+[CAR] Speed: 142,8 km/h | LocalZ: 39,63
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,225 | SideSlip:-0,004
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,158 | SideSlip:-0,004
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,138 | SideSlip:-0,039
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,152 | SideSlip:-0,040
+[CAR] Speed: 144,2 km/h | LocalZ: 40,00
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,052 | SideSlip:-0,029
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:-0,029
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,162 | SideSlip:-0,057
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,043 | SideSlip:-0,058
+[CAR] Speed: 147,0 km/h | LocalZ: 40,76
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,079 | SideSlip:-0,039
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,007 | SideSlip:-0,040
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,124 | SideSlip:-0,071
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,068 | SideSlip:-0,073
+[CAR] Speed: 149,9 km/h | LocalZ: 41,54
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,081 | SideSlip:-0,051
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:-0,052
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,086 | SideSlip:-0,082
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,072 | SideSlip:-0,083
+[CAR] Speed: 150,5 km/h | LocalZ: 41,80
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:-0,021
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,045 | SideSlip:-0,021
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,197 | SideSlip:0,016
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,041 | SideSlip:0,016
+[CAR] Speed: 153,8 km/h | LocalZ: 42,71
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:0,027
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,040 | SideSlip:0,027
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,073 | SideSlip:0,043
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,274 | SideSlip:0,042
+[CAR] Speed: 155,5 km/h | LocalZ: 43,16
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:0,033
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,027 | SideSlip:0,032
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,060 | SideSlip:0,059
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,232 | SideSlip:0,058
+[CAR] Speed: 158,4 km/h | LocalZ: 43,93
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,004 | SideSlip:0,046
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,038 | SideSlip:0,046
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,142 | SideSlip:0,072
+[CAR] Speed: 160,2 km/h | LocalZ: 44,31
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,005 | SideSlip:0,071
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,023 | SideSlip:0,070
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,026 | SideSlip:0,107
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,171 | SideSlip:0,105
+[CAR] Speed: 161,0 km/h | LocalZ: 44,54
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,076 | SideSlip:0,116
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,107 | SideSlip:0,118
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,022 | SideSlip:0,086
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,216 | SideSlip:0,087
+[CAR] Speed: 163,4 km/h | LocalZ: 45,39
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,004 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,023 | SideSlip:0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,226 | SideSlip:0,016
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,157 | SideSlip:0,016
+[CAR] Speed: 167,0 km/h | LocalZ: 46,38
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,003 | SideSlip:0,009
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,042 | SideSlip:0,009
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,022 | SideSlip:0,011
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,208 | SideSlip:0,011
+[CAR] Speed: 167,8 km/h | LocalZ: 46,59
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,074 | SideSlip:-0,014
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,016 | SideSlip:-0,014
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,280 | SideSlip:-0,040
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,086 | SideSlip:-0,041
+[CAR] Speed: 170,5 km/h | LocalZ: 47,22
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,049 | SideSlip:-0,050
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,003 | SideSlip:-0,050
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,088 | SideSlip:-0,079
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,113 | SideSlip:-0,081
+[CAR] Speed: 169,8 km/h | LocalZ: 46,93
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,228 | SideSlip:-0,080
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,121 | SideSlip:-0,081
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,178 | SideSlip:-0,107
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,077 | SideSlip:-0,108
+[CAR] Speed: 167,3 km/h | LocalZ: 45,88
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,079 | SideSlip:-0,129
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,132
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,080 | SideSlip:-0,179
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,065 | SideSlip:-0,184
+[CAR] Speed: 165,1 km/h | LocalZ: 44,19
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,055 | SideSlip:0,258
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,004 | SideSlip:0,255
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,017 | SideSlip:-0,272
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,072 | SideSlip:-0,275
+[CAR] Speed: 162,3 km/h | LocalZ: 44,83
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,081 | SideSlip:-0,141
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,001 | SideSlip:-0,138
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,156 | SideSlip:-0,101
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,050 | SideSlip:-0,099
+[CAR] Speed: 162,0 km/h | LocalZ: 44,99
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,095 | SideSlip:-0,005
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,005
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,218 | SideSlip:-0,007
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,110 | SideSlip:-0,007
+[CAR] Speed: 164,3 km/h | LocalZ: 45,65
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:-0,002
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,054 | SideSlip:-0,002
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,017 | SideSlip:0,001
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,201 | SideSlip:0,001
+[CAR] Speed: 166,8 km/h | LocalZ: 46,33
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,010 | SideSlip:0,507
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:0,507
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,244 | SideSlip:0,019
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,213 | SideSlip:0,019
+[CAR] Speed: 168,6 km/h | LocalZ: 46,78
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,003 | SideSlip:0,033
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,065 | SideSlip:0,033
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,190 | SideSlip:0,056
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,279 | SideSlip:0,056
+[CAR] Speed: 168,3 km/h | LocalZ: 46,60
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,002 | SideSlip:0,055
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,083 | SideSlip:0,053
+Wheel L not grounded!
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,059 | SideSlip:0,090
+[CAR] Speed: 167,1 km/h | LocalZ: 45,78
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,032 | SideSlip:-0,357
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,041 | SideSlip:-0,359
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,134 | SideSlip:0,173
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,198 | SideSlip:0,171
+[CAR] Speed: 165,2 km/h | LocalZ: 45,83
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,002 | SideSlip:0,063
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,064 | SideSlip:0,064
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,106 | SideSlip:0,048
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,141 | SideSlip:0,048
+[CAR] Speed: 167,3 km/h | LocalZ: 46,44
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:0,021
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,068 | SideSlip:0,021
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,127 | SideSlip:0,032
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,254 | SideSlip:0,032
+[CAR] Speed: 167,4 km/h | LocalZ: 46,48
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,079 | SideSlip:-0,501
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,056 | SideSlip:-0,500
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,342 | SideSlip:-0,039
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,223 | SideSlip:-0,041
+[CAR] Speed: 162,5 km/h | LocalZ: 44,79
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,107 | SideSlip:-0,083
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,170 | SideSlip:-0,086
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,269 | SideSlip:-0,136
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,028 | SideSlip:-0,140
+[CAR] Speed: 159,1 km/h | LocalZ: 44,16
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,006 | SideSlip:-0,569
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,034 | SideSlip:-0,569
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,270 | SideSlip:-0,029
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,096 | SideSlip:-0,029
+[CAR] Speed: 155,3 km/h | LocalZ: 43,11
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:-0,505
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,034 | SideSlip:-0,505
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,363 | SideSlip:-0,040
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,106 | SideSlip:-0,041
+[CAR] Speed: 149,8 km/h | LocalZ: 41,36
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,190 | SideSlip:-0,072
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,169 | SideSlip:-0,075
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,238 | SideSlip:-0,132
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,087 | SideSlip:-0,138
+[CAR] Speed: 147,9 km/h | LocalZ: 40,08
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,080 | SideSlip:-0,169
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,001 | SideSlip:-0,178
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,064 | SideSlip:-0,245
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,178 | SideSlip:-0,257
+[CAR] Speed: 143,8 km/h | LocalZ: 37,93
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,106 | SideSlip:-0,787
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,213 | SideSlip:-0,796
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,051 | SideSlip:-0,331
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,040 | SideSlip:-0,343
+[CAR] Speed: 138,5 km/h | LocalZ: 35,11
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,001 | SideSlip:0,114
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,141 | SideSlip:0,108
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,184 | SideSlip:-0,418
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,054 | SideSlip:-0,424
+[CAR] Speed: 134,7 km/h | LocalZ: 36,23
+Wheel L | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,087 | SideSlip:0,225
+Wheel R | Steer:-30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,002 | SideSlip:0,233
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,165 | SideSlip:-0,238
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,051 | SideSlip:-0,231
+[CAR] Speed: 131,5 km/h | LocalZ: 36,45
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,105 | SideSlip:-0,519
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,030 | SideSlip:-0,519
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,175 | SideSlip:0,075
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,118 | SideSlip:0,071
+[CAR] Speed: 128,3 km/h | LocalZ: 35,64
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,028 | SideSlip:-0,519
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,032 | SideSlip:-0,519
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,325 | SideSlip:-0,095
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,014 | SideSlip:-0,032
+[CAR] Speed: 130,0 km/h | LocalZ: 36,08
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,018 | SideSlip:-0,016
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,060 | SideSlip:-0,016
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,231 | SideSlip:-0,047
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,081 | SideSlip:-0,048
+[CAR] Speed: 131,1 km/h | LocalZ: 36,42
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,046 | SideSlip:-0,518
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,025 | SideSlip:-0,518
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,242 | SideSlip:-0,031
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:-0,147 | SideSlip:-0,032
+[CAR] Speed: 130,8 km/h | LocalZ: 36,30
+Wheel L | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,088 | SideSlip:-0,523
+Wheel R | Steer:30,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,002 | SideSlip:-0,523
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,289 | SideSlip:-0,065
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,154 | SideSlip:-0,068
+[CAR] Speed: 132,3 km/h | LocalZ: 36,61
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,072 | SideSlip:-0,048
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,006 | SideSlip:-0,050
+Wheel L | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,041 | SideSlip:-0,103
+Wheel R | Steer:0,0 | Motor:1500,0 | Brake:0,0 | ForwardSlip:0,090 | SideSlip:-0,106
+[CAR] Speed: 131,5 km/h | LocalZ: 36,22
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,055 | SideSlip:-0,084
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,004 | SideSlip:-0,087
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,245 | SideSlip:-0,143
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,122 | SideSlip:-0,148
+[CAR] Speed: 128,6 km/h | LocalZ: 34,86
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,133 | SideSlip:-0,161
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,012 | SideSlip:-0,170
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,063 | SideSlip:-0,248
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,034 | SideSlip:-0,261
+[CAR] Speed: 125,9 km/h | LocalZ: 32,78
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,136 | SideSlip:-0,277
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,001 | SideSlip:-0,296
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,047 | SideSlip:-0,382
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,155 | SideSlip:-0,406
+[CAR] Speed: 121,3 km/h | LocalZ: 28,96
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,098 | SideSlip:-0,432
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,013 | SideSlip:-0,465
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,098 | SideSlip:-0,542
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,153 | SideSlip:-0,582
+[CAR] Speed: 114,4 km/h | LocalZ: 23,26
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,099 | SideSlip:-0,615
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,013 | SideSlip:-0,669
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,020 | SideSlip:-0,727
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:-0,041 | SideSlip:-0,784
+
+End Time: 21.09.2025 17:54:51

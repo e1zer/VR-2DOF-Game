@@ -1,0 +1,13 @@
+﻿=== Car Debug Log ===
+Start Time: 21.09.2025 17:25:59
+
+[CAR] Speed: 12,5 km/h | LocalZ: 0,00
+Wheel L not grounded!
+Wheel R not grounded!
+Wheel L not grounded!
+Wheel R not grounded!
+[CAR] Speed: 5,1 km/h | LocalZ: 0,04
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,143
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,139
+Wheel L | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,183
+Wheel R | Steer:0,0 | Motor:0,0 | Brake:0,0 | ForwardSlip:0,000 | SideSlip:-0,178

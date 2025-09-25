@@ -19,11 +19,14 @@ public class WheelVisualSync : MonoBehaviour
         }
     }
 
-    private void UpdateWheelPose(WheelCollider collider, Transform mash)
+    private void UpdateWheelPose(WheelCollider collider, Transform mesh)
     {
+        Vector3 position;
         Quaternion rotation;
-        collider.GetWorldPose(out _, out rotation);
 
-        mash.rotation = rotation;
+        collider.GetWorldPose(out position, out rotation);
+
+        //mesh.position = position;
+        mesh.rotation = rotation;
     }
 }

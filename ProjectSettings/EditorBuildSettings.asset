@@ -6,9 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Game/Scenes/MainMenuTrack.unity
+    guid: 34f2b79414fbb704c8c648ea1bf83e0c
+  - enabled: 1
     path: Assets/Game/Scenes/Track.unity
     guid: 30291b33a6bf3554eb72dc2d999b4971
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f81c2ed342538dd4b9de7dfdcd126078, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 33d55a0d7e3adc549b3ea7110294d90c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 320fbd1d44602694fae122b04fb5979b, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 174d3fce609745248b5cb018d97a1409, type: 2}
