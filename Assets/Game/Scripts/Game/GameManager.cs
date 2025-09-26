@@ -9,11 +9,11 @@ public class GameManager : MonoBehaviour
 {
     [SerializeField] private InputControllerReader inputControllerReader;
     [SerializeField] private int needLaps = 3;
-    [SerializeField] private AudioMixer audioMixer; // сюда кидаешь AudioMixer из инспектора
+    [SerializeField] private AudioMixer audioMixer;
 
     private bool isGameStarted = false;
     private int countLaps = 1;
-    private float volume = 0f; // dB, лучше хранить именно dB, а не 0Ц1
+    private float volume = 0f;
 
     public int NeedLaps => needLaps;
     public bool IsGameStarted => isGameStarted;
@@ -25,7 +25,6 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        // «агружаем сохранЄнную громкость (если нет, ставим 0 dB = 100%)
         volume = PlayerPrefs.GetFloat("GameVolume", 0f);
         audioMixer.SetFloat("Volume", volume);
 
@@ -38,9 +37,9 @@ public class GameManager : MonoBehaviour
             RestartGame();
 
         if (inputControllerReader.LeftBumper)
-            ChangeVolume(-2f); // уменьшаем на 2 дЅ
+            ChangeVolume(-2f);
         if (inputControllerReader.RightBumper)
-            ChangeVolume(+2f); // увеличиваем на 2 дЅ
+            ChangeVolume(+2f);
     }
 
     private void StartGame()

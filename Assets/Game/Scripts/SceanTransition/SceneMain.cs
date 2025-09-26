@@ -1,14 +1,30 @@
+using LogitechG29.Sample.Input;
 using MaskTransitions;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public class SceneMain : MonoBehaviour
 {
-    private void Update()
+    [SerializeField]
+    private InputControllerReader input;
+
+    private bool isPressed = false;
+
+    private void Awake()
     {
-        if (Keyboard.current != null && Keyboard.current.enterKey.wasPressedThisFrame)
+        input.OnEastButtonCallback += PressStart;
+    }
+
+    private void OnDestroy()
+    {
+        input.OnEastButtonCallback -= PressStart;
+    }
+
+    private void PressStart(bool isPress)
+    {
+        if (isPress && !isPressed)
         {
             TransitionManager.Instance.LoadLevel("Track");
+            isPressed = true;
         }
     }
 }
