@@ -9,6 +9,8 @@ public class Timer : MonoBehaviour
     private float elapsedTime = 0f;
     private bool isRunning = false;
 
+    public float ElapsedTime => elapsedTime;
+
     public event Action<int, int> OnTimeChanged;
 
     private void Awake()

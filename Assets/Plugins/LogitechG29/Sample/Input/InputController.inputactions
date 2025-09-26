@@ -235,6 +235,17 @@
                 },
                 {
                     "name": "",
+                    "id": "711eef59-9b1c-4e83-a14b-a6b3ad290b51",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left Bumper",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "6fcd4a03-0374-4139-85ff-3f8a7c68824b",
                     "path": "<Logitech G29 Racing Wheel>/leftShiftButton",
                     "interactions": "",
@@ -284,6 +295,17 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Logitech G29",
+                    "action": "Right Bumper",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "efb17155-92e9-4ab0-9315-0d6c52f4fbe4",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "Right Bumper",
                     "isComposite": false,
                     "isPartOfComposite": false

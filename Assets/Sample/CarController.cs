@@ -10,6 +10,8 @@ using UnityEngine;
 public class CarController : MonoBehaviour
 {
     [SerializeField]
+    private GameManager gameManager;
+    [SerializeField]
     private Rigidbody rigidbody;
     [SerializeField]
     private InputControllerReader inputControllerReader;
@@ -42,6 +44,8 @@ public class CarController : MonoBehaviour
         inputControllerReader.ThrottleCallback += throttleHandler;
         inputControllerReader.BrakeCallback += brakeHandler;
         inputControllerReader.SteeringCallback += Steering;
+
+        gameManager.OnEndGame += FinishBrake;
     }
 
     private void OnDestroy()
@@ -49,6 +53,8 @@ public class CarController : MonoBehaviour
         inputControllerReader.ThrottleCallback -= throttleHandler;
         inputControllerReader.BrakeCallback -= brakeHandler;
         inputControllerReader.SteeringCallback -= Steering;
+
+        gameManager.OnEndGame -= FinishBrake;
     }
 
     private void Start()
@@ -58,7 +64,8 @@ public class CarController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        ApplyThrottle(throttleInput, brakeInput);
+        if (gameManager.IsGameStarted)
+            ApplyThrottle(throttleInput, brakeInput);
     }
 
     private void Steering(float steeringInput)
@@ -110,6 +117,15 @@ public class CarController : MonoBehaviour
 
             axleInfo.leftWheel.brakeTorque = appliedBrake;
             axleInfo.rightWheel.brakeTorque = appliedBrake;
+        }
+    }
+
+    private void FinishBrake()
+    {
+        foreach (var axleInfo in axleInfos)
+        {
+            axleInfo.leftWheel.brakeTorque = 3000f;
+            axleInfo.rightWheel.brakeTorque = 3000f;
         }
     }
 }

@@ -45,15 +45,12 @@ public class CarSoundController : MonoBehaviour
         throttleInput = Mathf.Max(0f, carController.GetThrottle());
         float speed = rb.velocity.magnitude;
 
-        Debug.Log(speed);
-
         UpdateGear(speed);
         UpdateRPM(speed, throttleInput);
 
         AudioClip targetClip = SelectClip();
         CrossfadeTo(targetClip);
 
-        // pitch по RPM
         float rpm01 = Mathf.InverseLerp(idleRPM, maxRPM, currentRPM);
         mainSource.pitch = Mathf.Lerp(0.8f, 1.1f, rpm01);
     }

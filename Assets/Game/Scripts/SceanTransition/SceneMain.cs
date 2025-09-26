@@ -1,18 +1,14 @@
 using MaskTransitions;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Utilities;
 
 public class SceneMain : MonoBehaviour
 {
-    private void Awake()
+    private void Update()
     {
-        InputSystem.onAnyButtonPress.CallOnce(OnAnyButton);
-    }
-
-
-    private void OnAnyButton(InputControl control)
-    {
-        TransitionManager.Instance.LoadLevel("Track");
+        if (Keyboard.current != null && Keyboard.current.enterKey.wasPressedThisFrame)
+        {
+            TransitionManager.Instance.LoadLevel("Track");
+        }
     }
 }
