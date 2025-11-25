@@ -25,12 +25,17 @@ public class CarTelemetryManager : MonoBehaviour
 
     private void OnEnable()
     {
+        telemetry.Reset();
+        baseSet = false;
         telemetryRoutine = StartCoroutine(TelemetryLoop());
         sender.SendingStart();
     }
 
     private void OnDisable()
     {
+        baseSet = false;
+        telemetry?.Reset();
+
         if (telemetryRoutine != null)
         {
             StopCoroutine(telemetryRoutine);

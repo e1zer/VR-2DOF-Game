@@ -13,6 +13,8 @@ namespace _2DOF
         /// В миллисекундах.
         /// </summary>
         public const int WAIT_TIME = 20;
+        private const int DATA_LENGTH = 6;
+        private const int MAP_SIZE_BYTES = DATA_LENGTH * sizeof(double);
 
         /// <summary>
         /// Данные телеметрии объекта.
@@ -21,13 +23,19 @@ namespace _2DOF
 
         private const string MAP_NAME = "2DOFMemoryDataGrabber";
         private Thread _thread;
+        private volatile bool _running;
 
         /// <summary>
         /// Запуск отправки данных.
         /// </summary>
         public void SendingStart()
         {
+            if (_thread != null && _thread.IsAlive)
+                return;
+
+            _running = true;
             _thread = new Thread(HandlerData);
+            _thread.IsBackground = true;
             _thread.Start();
         }
 
@@ -36,21 +44,30 @@ namespace _2DOF
         /// </summary>
         public void SendingStop()
         {
-            _thread?.Abort();
+            _running = false;
+
+            if (_thread != null && _thread.IsAlive)
+            {
+                _thread.Join(WAIT_TIME * 2);
+            }
+
+            _thread = null;
         }
 
         private void HandlerData()
         {
-            using var memoryMappedFile = MemoryMappedFile.CreateOrOpen(MAP_NAME, ObjectTelemetryData.DataArray.Length);
+            using var memoryMappedFile = MemoryMappedFile.CreateOrOpen(MAP_NAME, MAP_SIZE_BYTES);
+            using var accessor = memoryMappedFile.CreateViewAccessor(0, MAP_SIZE_BYTES, MemoryMappedFileAccess.Write);
 
-            while (true)
+            while (_running)
             {
-                using var accessor = memoryMappedFile.CreateViewAccessor();
-
-                accessor.WriteArray(0, ObjectTelemetryData.DataArray, 0, 6);
-
+                accessor.WriteArray(0, ObjectTelemetryData.DataArray, 0, DATA_LENGTH);
                 Thread.Sleep(WAIT_TIME);
             }
+
+            // При остановке записываем нулевой пакет, чтобы платформа вернулась в базу
+            var zeros = new double[DATA_LENGTH];
+            accessor.WriteArray(0, zeros, 0, DATA_LENGTH);
         }
     }
 }
