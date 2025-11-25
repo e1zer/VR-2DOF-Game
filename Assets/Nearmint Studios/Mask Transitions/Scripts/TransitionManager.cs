@@ -131,6 +131,7 @@ namespace MaskTransitions
         #region Transition With Scene Load 
         public void LoadLevel(string sceneName, float delay = 0f)
         {
+            Debug.Log($"Загрузка уровня: {sceneName}");
             StartCoroutine(LoadLevelWithWait(sceneName, delay));
         }
 

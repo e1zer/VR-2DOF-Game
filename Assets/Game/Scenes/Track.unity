@@ -21465,7 +21465,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputControllerReader: {fileID: 11400000, guid: 8268bb9eff5a1954492cd4817fb37528, type: 2}
   needLaps: 3
-  audioMixer: {fileID: 24100000, guid: 230bd39e3c116c242988a53aeb030588, type: 2}
 --- !u!4 &1218792086
 Transform:
   m_ObjectHideFlags: 0
@@ -21887,12 +21886,32 @@ PrefabInstance:
       value: 'Car '
       objectReference: {fileID: 0}
     - target: {fileID: 1655502346802516504, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.422
+      objectReference: {fileID: 0}
+    - target: {fileID: 1655502346802516504, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.053
+      objectReference: {fileID: 0}
+    - target: {fileID: 1655502346802516504, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859382858127252982, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      propertyPath: m_ImplicitCom
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2991766807148212200, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
       propertyPath: m_LocalPosition.y
       value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3803243633071976249, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      propertyPath: m_SuspensionDistance
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3803243633071976249, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 4332773616498309702, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
       propertyPath: maxSpeed
@@ -21925,6 +21944,14 @@ PrefabInstance:
     - target: {fileID: 5689395020487248295, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6205779930185902946, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      propertyPath: m_SuspensionDistance
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6205779930185902946, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 8099194973461517794, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30155,6 +30182,52 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3668223235125539073, guid: 7321d82d4e7d7364db5a94f582c802cb, type: 3}
   m_PrefabInstance: {fileID: 1742793795}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1745115502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1745115504}
+  - component: {fileID: 1745115503}
+  m_Layer: 0
+  m_Name: AudioChanger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1745115503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1745115502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0fb681cee35f24184c0857838afe53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioMixer: {fileID: 24100000, guid: 230bd39e3c116c242988a53aeb030588, type: 2}
+  inputControllerReader: {fileID: 11400000, guid: 8268bb9eff5a1954492cd4817fb37528, type: 2}
+--- !u!4 &1745115504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1745115502}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.649843, y: -0.39463717, z: -42.558308}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1748510345
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37380,3 +37453,4 @@ SceneRoots:
   - {fileID: 873735309}
   - {fileID: 1218792086}
   - {fileID: 73995383}
+  - {fileID: 1745115504}

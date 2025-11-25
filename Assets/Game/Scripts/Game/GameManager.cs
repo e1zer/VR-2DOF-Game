@@ -3,17 +3,16 @@ using MaskTransitions;
 using System;
 using System.Collections;
 using UnityEngine;
-using UnityEngine.Audio; // обязательно для AudioMixer
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField] private InputControllerReader inputControllerReader;
-    [SerializeField] private int needLaps = 3;
-    [SerializeField] private AudioMixer audioMixer;
+    [SerializeField]
+    private InputControllerReader inputControllerReader;
+    [SerializeField]
+    private int needLaps = 3;
 
     private bool isGameStarted = false;
     private int countLaps = 1;
-    private float volume = 0f;
 
     public int NeedLaps => needLaps;
     public bool IsGameStarted => isGameStarted;
@@ -25,9 +24,6 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        volume = PlayerPrefs.GetFloat("GameVolume", 0f);
-        audioMixer.SetFloat("Volume", volume);
-
         StartCoroutine(DelayStartGame());
     }
 
@@ -35,11 +31,6 @@ public class GameManager : MonoBehaviour
     {
         if (inputControllerReader.EastButton && isGameStarted)
             RestartGame();
-
-        if (inputControllerReader.LeftBumper)
-            ChangeVolume(-2f);
-        if (inputControllerReader.RightBumper)
-            ChangeVolume(+2f);
     }
 
     private void StartGame()
@@ -90,14 +81,5 @@ public class GameManager : MonoBehaviour
     {
         yield return new WaitForSeconds(5f);
         RestartGame();
-    }
-
-    private void ChangeVolume(float deltaDb)
-    {
-        volume = Mathf.Clamp(volume + deltaDb, -80f, 0f);
-        audioMixer.SetFloat("Volume", volume);
-
-        PlayerPrefs.SetFloat("GameVolume", volume);
-        PlayerPrefs.Save();
     }
 }

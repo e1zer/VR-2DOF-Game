@@ -14,6 +14,9 @@ public class CarTelemetryManager : MonoBehaviour
 
     private Coroutine telemetryRoutine;
 
+    private Vector3 baseAngles;
+    private bool baseSet = false;
+
     private void Awake()
     {
         sender = new SendingData();
@@ -57,8 +60,17 @@ public class CarTelemetryManager : MonoBehaviour
 
     private void UpdateTelemetry()
     {
+        if (!baseSet)
+        {
+            baseAngles = carTransform.eulerAngles;
+            baseSet = true;
+        }
+
         telemetry.Velocity = carRigidbody.velocity;
-        telemetry.Angles = NormalizeAngles(carTransform.eulerAngles);
+
+        Vector3 delta = NormalizeAngles(carTransform.eulerAngles - baseAngles);
+
+        telemetry.Angles = new Vector3(delta.x, 0f, delta.z);
     }
 
     private Vector3 NormalizeAngles(Vector3 euler)
@@ -72,9 +84,9 @@ public class CarTelemetryManager : MonoBehaviour
 
     private float NormalizeAxis(float angle)
     {
-        if (Mathf.Approximately(angle, 180f))
-            return 0f;
-
-        return angle > 180f ? angle - 360f : angle;
+        angle %= 360f;
+        if (angle > 180f)
+            angle -= 360f;
+        return angle;
     }
 }

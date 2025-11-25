@@ -11,20 +11,27 @@ public class SceneMain : MonoBehaviour
 
     private void Awake()
     {
-        input.OnEastButtonCallback += PressStart;
+        // Подписываемся на все возможные кнопки Logitech G29
+        input.OnEastButtonCallback += OnAnyButtonPressed;
+        input.OnWestButtonCallback += OnAnyButtonPressed;
+        input.OnNorthButtonCallback += OnAnyButtonPressed;
+        input.OnSouthButtonCallback += OnAnyButtonPressed;
     }
 
     private void OnDestroy()
     {
-        input.OnEastButtonCallback -= PressStart;
+        input.OnEastButtonCallback -= OnAnyButtonPressed;
+        input.OnWestButtonCallback -= OnAnyButtonPressed;
+        input.OnNorthButtonCallback -= OnAnyButtonPressed;
+        input.OnSouthButtonCallback -= OnAnyButtonPressed;
     }
 
-    private void PressStart(bool isPress)
+    private void OnAnyButtonPressed(bool isPress)
     {
         if (isPress && !isPressed)
         {
-            TransitionManager.Instance.LoadLevel("Track");
             isPressed = true;
+            TransitionManager.Instance.LoadLevel("Track");
         }
     }
 }

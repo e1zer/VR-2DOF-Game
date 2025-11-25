@@ -66,7 +66,57 @@ public class CarController : MonoBehaviour
     {
         if (gameManager.IsGameStarted)
             ApplyThrottle(throttleInput, brakeInput);
+
+        ApplyAntiRollBar();
+        LimitGripOnSteepSurfaces();
+        AdjustWheelGripBySpeed();
     }
+
+
+
+    private void LimitGripOnSteepSurfaces()
+    {
+        foreach (var axleInfo in axleInfos)
+        {
+            LimitWheelFriction(axleInfo.leftWheel);
+            LimitWheelFriction(axleInfo.rightWheel);
+        }
+    }
+
+    private void LimitWheelFriction(WheelCollider wheel)
+    {
+        if (wheel.GetGroundHit(out WheelHit hit))
+        {
+            float angle = Vector3.Angle(hit.normal, Vector3.up);
+
+            if (angle > 40f)
+            {
+                // Ослабляем сцепление при езде по стене
+                var forwardFriction = wheel.forwardFriction;
+                var sidewaysFriction = wheel.sidewaysFriction;
+
+                forwardFriction.stiffness = 0.2f;
+                sidewaysFriction.stiffness = 0.2f;
+
+                wheel.forwardFriction = forwardFriction;
+                wheel.sidewaysFriction = sidewaysFriction;
+            }
+            else
+            {
+                // Восстанавливаем нормальное сцепление
+                var forwardFriction = wheel.forwardFriction;
+                var sidewaysFriction = wheel.sidewaysFriction;
+
+                forwardFriction.stiffness = 1.0f;
+                sidewaysFriction.stiffness = 1.0f;
+
+                wheel.forwardFriction = forwardFriction;
+                wheel.sidewaysFriction = sidewaysFriction;
+            }
+        }
+    }
+
+
 
     private void Steering(float steeringInput)
     {
@@ -119,6 +169,59 @@ public class CarController : MonoBehaviour
             axleInfo.rightWheel.brakeTorque = appliedBrake;
         }
     }
+
+    private void ApplyAntiRollBar()
+    {
+        foreach (var axleInfo in axleInfos)
+        {
+            WheelHit hitL;
+            WheelHit hitR;
+            float travelL = 1.0f;
+            float travelR = 1.0f;
+
+            bool groundedL = axleInfo.leftWheel.GetGroundHit(out hitL);
+            bool groundedR = axleInfo.rightWheel.GetGroundHit(out hitR);
+
+            if (groundedL)
+                travelL = (-axleInfo.leftWheel.transform.InverseTransformPoint(hitL.point).y - axleInfo.leftWheel.radius) / axleInfo.leftWheel.suspensionDistance;
+            if (groundedR)
+                travelR = (-axleInfo.rightWheel.transform.InverseTransformPoint(hitR.point).y - axleInfo.rightWheel.radius) / axleInfo.rightWheel.suspensionDistance;
+
+            float antiRollForce = (travelL - travelR) * 5000f; // 5000f можно подбирать под твой вес машины
+
+            if (groundedL)
+                rigidbody.AddForceAtPosition(axleInfo.leftWheel.transform.up * -antiRollForce, axleInfo.leftWheel.transform.position);
+            if (groundedR)
+                rigidbody.AddForceAtPosition(axleInfo.rightWheel.transform.up * antiRollForce, axleInfo.rightWheel.transform.position);
+        }
+    }
+
+    private void AdjustWheelGripBySpeed()
+    {
+        float speed = rigidbody.velocity.magnitude;
+
+        // Рассчитываем множитель сцепления в зависимости от скорости
+        float gripMultiplier = Mathf.Lerp(1.5f, 0.8f, speed / maxSpeed);
+
+        foreach (var axleInfo in axleInfos)
+        {
+            AdjustWheelGrip(axleInfo.leftWheel, gripMultiplier);
+            AdjustWheelGrip(axleInfo.rightWheel, gripMultiplier);
+        }
+    }
+
+    private void AdjustWheelGrip(WheelCollider wheel, float gripMultiplier)
+    {
+        WheelFrictionCurve forward = wheel.forwardFriction;
+        WheelFrictionCurve sideways = wheel.sidewaysFriction;
+
+        forward.stiffness = gripMultiplier;
+        sideways.stiffness = gripMultiplier * 1.2f; // немного больше для бокового сцепления
+
+        wheel.forwardFriction = forward;
+        wheel.sidewaysFriction = sideways;
+    }
+
 
     private void FinishBrake()
     {
