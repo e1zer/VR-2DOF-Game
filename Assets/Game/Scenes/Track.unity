@@ -21999,7 +21999,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8099194973461517794, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
       insertIndex: 0
       addedObject: {fileID: 1921551782}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 391716713448066719, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1470854134}
   m_SourcePrefab: {fileID: 100100000, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
 --- !u!4 &1250795153 stripped
 Transform:
@@ -23800,7 +23803,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4332773616498309702, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
   m_PrefabInstance: {fileID: 1250795152}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1470854133}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c9bb2250f7b98584b8e49b0365225096, type: 3}
@@ -25606,6 +25609,34 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6774127471112418905, guid: 79d35717ab2a5f746bc93bca41bdcbf8, type: 3}
   m_PrefabInstance: {fileID: 1469455851}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1470854133 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 391716713448066719, guid: f489a35540ce05e448ce4c531c78d8c3, type: 3}
+  m_PrefabInstance: {fileID: 1250795152}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1470854134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1470854133}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e79229c9e6c48b4ba936fa80a2d736b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  carRigidbody: {fileID: 1371732232}
+  accelThreshold: 70
+  brakeThreshold: -70
+  sideAccelThreshold: 70
+  intensityAccel: 0.5
+  intensityBrake: 0.5
+  intensityTurn: 0.5
+  showHapticsGUI: 0
+  guiFontSize: 15
+  guiWidth: 300
+  guiHeight: 400
 --- !u!1001 &1471076984
 PrefabInstance:
   m_ObjectHideFlags: 0
