@@ -1,0 +1,153 @@
+using UnityEngine;
+using Bhaptics.SDK2;
+using System.Collections.Generic;
+
+[RequireComponent(typeof(Rigidbody))]
+public class CarHapticsController : MonoBehaviour
+{
+    [Header("Ссылки")]
+    [SerializeField] private Rigidbody carRigidbody;
+
+    [Header("Пороги срабатывания")]
+    [SerializeField] private float accelThreshold = 4f;
+    [SerializeField] private float brakeThreshold = -4f;
+    [SerializeField] private float sideAccelThreshold = 3f;
+
+    [Header("Интенсивности вибраций")]
+    [SerializeField] private float intensityAccel = 0.5f;
+    [SerializeField] private float intensityBrake = 0.5f;
+    [SerializeField] private float intensityTurn = 0.5f;
+
+    [Header("Настройки GUI")]
+    [SerializeField] private bool showHapticsGUI = true;
+    [SerializeField] private int guiFontSize = 15;
+    [SerializeField] private int guiWidth = 300;
+    [SerializeField] private int guiHeight = 400;
+
+    // Счетчики срабатываний
+    private Dictionary<string, int> hapticEventCounts = new Dictionary<string, int>();
+    private Vector3 lastVelocity;
+    private bool lowHealthTriggered = false;
+
+    // GUI стиль
+    private GUIStyle guiStyle;
+
+    private void Reset()
+    {
+        carRigidbody = GetComponent<Rigidbody>();
+    }
+
+    private void Start()
+    {
+        // Инициализация счетчиков
+        InitializeEventCounters();
+
+        // Инициализация GUI стиля
+        guiStyle = new GUIStyle();
+        guiStyle.fontSize = guiFontSize;
+        guiStyle.normal.textColor = Color.yellow;
+    }
+
+    private void InitializeEventCounters()
+    {
+        hapticEventCounts.Clear();
+        hapticEventCounts.Add("razgon", 0);
+        hapticEventCounts.Add("remen_bezopasnosty", 0);
+        hapticEventCounts.Add("povorot_pravo", 0);
+        hapticEventCounts.Add("povorot_levo", 0);
+    }
+
+    private void Update()
+    {
+        CheckMovementHaptics();
+    }
+
+    private void CheckMovementHaptics()
+    {
+        Vector3 localVel = transform.InverseTransformDirection(carRigidbody.velocity);
+        Vector3 accel = (carRigidbody.velocity - lastVelocity) / Time.deltaTime;
+        Vector3 localAccel = transform.InverseTransformDirection(accel);
+
+        // Ускорение вперед в разгоне/торможении
+        if (localAccel.z > accelThreshold)
+        {
+            BhapticsLibrary.Play(eventId: "razgon", startMillis: 0, intensity: intensityAccel, duration: 0.5f, angleX: 0, offsetY: 0);
+            hapticEventCounts["razgon"]++;
+            Debug.Log("razgon sigran");
+        }
+        else if (localAccel.z < brakeThreshold)
+        {
+            BhapticsLibrary.Play(eventId: "remen_bezopasnosty", startMillis: 0, intensity: intensityBrake, duration: 0.5f, angleX: 0, offsetY: 0);
+            hapticEventCounts["remen_bezopasnosty"]++;
+            Debug.Log("remen_bezopasnosty");
+        }
+
+        // Боковое ускорение в поворотах
+        if (Mathf.Abs(localAccel.x) > sideAccelThreshold)
+        {
+            if (localAccel.x > 0)
+            {
+                BhapticsLibrary.Play(eventId: "povorot_pravo", startMillis: 0, intensity: intensityTurn, duration: 0.5f, angleX: 0, offsetY: 0);
+                hapticEventCounts["povorot_pravo"]++;
+                Debug.Log("povorot_pravo");
+            }
+            else
+            {
+                BhapticsLibrary.Play(eventId: "povorot_levo", startMillis: 0, intensity: intensityTurn, duration: 0.5f, angleX: 0, offsetY: 0);
+                hapticEventCounts["povorot_levo"]++;
+                Debug.Log("povorot_levo");
+            }
+        }
+
+        lastVelocity = carRigidbody.velocity;
+    }
+
+    private void OnGUI()
+    {
+        if (!showHapticsGUI) return;
+
+        // Позиционируем GUI в правом верхнем углу
+        GUILayout.BeginArea(new Rect(Screen.width - guiWidth - 30, 10, guiWidth, guiHeight));
+
+        GUILayout.Label("BHAPTICS EVENTS", guiStyle);
+        GUILayout.Space(10);
+
+        // Отображаем счетчики для каждого события
+        foreach (var eventCount in hapticEventCounts)
+        {
+            GUILayout.Label($"{eventCount.Key}: {eventCount.Value}", guiStyle);
+        }
+
+        GUILayout.Space(15);
+
+        // Отображаем текущие настройки интенсивности
+        GUILayout.Label("INTENSITY SETTINGS", guiStyle);
+        GUILayout.Label($"Accel: {intensityAccel:F2}", guiStyle);
+        GUILayout.Label($"Brake: {intensityBrake:F2}", guiStyle);
+        GUILayout.Label($"Turn: {intensityTurn:F2}", guiStyle);
+
+        // Кнопка сброса счетчиков
+        if (GUILayout.Button("Reset Counters", GUILayout.Height(30)))
+        {
+            InitializeEventCounters();
+        }
+
+        GUILayout.EndArea();
+    }
+
+    // Метод для сброса счетчиков из других скриптов
+    public void ResetHapticCounters()
+    {
+        InitializeEventCounters();
+    }
+
+    // Метод для получения счетчика конкретного события
+    public int GetEventCount(string eventId)
+    {
+        if (hapticEventCounts.ContainsKey(eventId))
+        {
+            return hapticEventCounts[eventId];
+        }
+        return 0;
+    }
+}
